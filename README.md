@@ -1,6 +1,6 @@
-# IITP CSE PhD thesis template
+# IITK AE MTech thesis template
 
-IIT Patna PhD Thesis template for CSE department. Sample thesis can be found [here](thesis.pdf).
+IITK AE MTech Thesis template for AE department. Sample thesis can be found [here](thesis.pdf).
 
 > NOTE: Please read the comments in the tex file before delete anything.
 
@@ -41,7 +41,7 @@ IIT Patna PhD Thesis template for CSE department. Sample thesis can be found [he
 
 ### Added your details
 
-Given your details at YOUR DETAILS in `thesis.tex` preamble like below: 
+Given your details at YOUR DETAILS in `thesis.tex` preamble like below:
 
 ```
 %% YOUR DETAILS
@@ -53,10 +53,10 @@ Given your details at YOUR DETAILS in `thesis.tex` preamble like below:
 
 ### How to add new chapter?
 
-If you want to add more chapters, which might be needed for showing another/more contributory chapters, make a copy of `Chapter1` folder and rename it and include new chapter before the thesis conclusion. 
+If you want to add more chapters, which might be needed for showing another/more contributory chapters, make a copy of `Chapter1` folder and rename it and include new chapter before the thesis conclusion.
 
 ```
-\include{Chapter1/chapter1} 
+\include{Chapter1/chapter1}
 \include{Chapter2/chapter2} % new chapter
 ```
 
@@ -66,7 +66,7 @@ List of Figures and Tables will be generated automatically but List of Notations
 
 ### How to add reference?
 
-Here we use BibTex  to describe and process lists of references. Your bib file can be found at `References/ThesisBib.bib`. Add all your BibTex in this bib file.
+Here we use BibTex to describe and process lists of references. Your bib file can be found at `References/ThesisBib.bib`. Add all your BibTex in this bib file.
 
 ### Work offline and with Overleaf
 
