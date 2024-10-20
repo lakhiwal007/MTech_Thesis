@@ -1,0 +1,90 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: HeadTail/title.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: HeadTail/cert.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: HeadTail/Declaration.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: HeadTail/abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: HeadTail/ack.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: Symbol/listofsymbol.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: Symbol/abbreviation.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: Chapter1/chapter1.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: Chapter2/chapter2.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: Chapter3/chapter3.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: Chapter4/chapter4.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: Chapter5/chapter5.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: Chapter6/chapter6.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: References/references.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: References/ThesisBib.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--missing school in VAThesis2011
+Warning--missing school in SKG2017
+Warning--empty booktitle in He2008FlamelessCO
+
+Done.
+You've used 62 entries,
+            4087 wiz_defined-function locations,
+            1293 strings with 21200 characters,
+and the built_in function-call counts, 48492 in all, are:
+= -- 4300
+> -- 961
+< -- 415
++ -- 558
+- -- 157
+* -- 2438
+:= -- 7755
+add.period$ -- 123
+call.type$ -- 62
+change.case$ -- 63
+chr.to.int$ -- 852
+cite$ -- 65
+duplicate$ -- 3401
+empty$ -- 3535
+format.name$ -- 205
+if$ -- 11262
+int.to.chr$ -- 0
+int.to.str$ -- 62
+missing$ -- 565
+newline$ -- 303
+num.names$ -- 60
+pop$ -- 1081
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 3908
+stack$ -- 0
+substring$ -- 2157
+swap$ -- 2959
+text.length$ -- 131
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 62
+warning$ -- 3
+while$ -- 186
+width$ -- 64
+write$ -- 791
+(There were 3 warnings)

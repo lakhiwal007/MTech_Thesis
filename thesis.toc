@@ -1,0 +1,78 @@
+\contentsline {chapter}{Acknowledgement}{v}{chapter*.1}%
+\contentsline {chapter}{List of Tables}{vi}{chapter*.2}%
+\contentsline {chapter}{List of Figures}{vii}{chapter*.3}%
+\contentsline {chapter}{List of Symbols}{vii}{chapter*.4}%
+\contentsline {chapter}{List of Abbreviations}{ix}{table.0.1}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Motivation}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Gas Turbine Combustor Design Parameters}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Gas Turbine Combustor Design Parameter}{4}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}High Thermal Intensity}{4}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Low Pollutant Emission}{4}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Pressure Drop}{5}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Pattern Factor}{6}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}Combustion Efficiency}{6}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.4.6}Combustion Instability}{7}{subsection.1.4.6}%
+\contentsline {subsection}{\numberline {1.4.7}Operational Limit}{7}{subsection.1.4.7}%
+\contentsline {section}{\numberline {1.5}Pollutant Formation}{7}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Oxides of Nitrogen (NOx)}{7}{subsection.1.5.1}%
+\contentsline {subsubsection}{Thermal NOx Formation (Zeldovich Mechanism)}{8}{figure.1.3}%
+\contentsline {subsubsection}{Nitrous Oxide Mechanism}{10}{figure.1.4}%
+\contentsline {subsubsection}{Prompt NOx Formation}{10}{figure.1.4}%
+\contentsline {subsubsection}{Fuel NOx Formation}{12}{figure.1.4}%
+\contentsline {subsection}{\numberline {1.5.2}CO (UHC) formation}{13}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Soot Formation}{13}{subsection.1.5.3}%
+\contentsline {section}{\numberline {1.6}Nomenclature for different flow configurations}{14}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Literature Review}{16}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{16}{section.2.1}%
+\contentsline {section}{\numberline {2.2}High Temperature Air Combustion (HiTAC)}{16}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Colorless Distributed Combustion (CDC)}{17}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Flameless Oxidation (FLOX)}{18}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Moderate Intense and Low oxygen Dilution (MILD)}{19}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Princeton Asymmetric Whirl Combustor (PAWC)}{20}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Fuel/oxidant direct injection (FODI)}{20}{section.2.7}%
+\contentsline {section}{\numberline {2.8}High Intensity Low Emission Burner (HILE)}{21}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Jet Stirred Reactor (JSR)}{21}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Trapped Vortex Combustor (TVC)}{22}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Dry Low NOx (DLN)}{23}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Peripheral Vortex Reverse Flow (PVRF)}{23}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Stagnation Point Reverse Flow (SPRF)}{24}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Objectives}{25}{section.2.14}%
+\contentsline {chapter}{\numberline {3}CDC Design Parameters}{26}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{26}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Fuel/Oxidizer Mixing}{26}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Gas Recirculation}{27}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Thermal Intensity \& Residence Time}{28}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Numerical and Experimental Methodologies}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}\textbf {Numerical setup}}{29}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Combustor Mesh}{29}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Initial and Boundary Conditions}{30}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Turbulence and Combustion Model}{31}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Experimental Setup}{31}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Global Imaging}{33}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}CH$^*$ Chemiluminescene}{33}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Gas Analyzer}{34}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Combustor Design and Ignition Process}{35}{subsection.4.3.4}%
+\contentsline {chapter}{\numberline {5}Results and Discussion}{38}{chapter.5}%
+\contentsline {section}{\numberline {5.1}\textbf {Numerical results}}{38}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Flow field Characteristics}{38}{subsection.5.1.1}%
+\contentsline {subsubsection}{Non-Reacting case}{38}{subsection.5.1.1}%
+\contentsline {subsubsection}{Reacting case}{39}{figure.5.1}%
+\contentsline {subsection}{\numberline {5.1.2}Temperature field characteristics}{40}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Recirculation ratio }{40}{subsection.5.1.3}%
+\contentsline {subsubsection}{Non-Reacting}{41}{equation.5.1.1}%
+\contentsline {subsubsection}{Reacting}{41}{figure.5.3}%
+\contentsline {section}{\numberline {5.2}Experimental Results}{42}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Global Imaging}{42}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}CH* chemiluminescence}{42}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Emissions characteristics}{43}{subsection.5.2.3}%
+\contentsline {subsubsection}{CO Emissions}{44}{subsection.5.2.3}%
+\contentsline {subsubsection}{$NO_x$ Emissions }{45}{figure.5.7}%
+\contentsline {subsubsection}{NO$_x$ and CH$^*$ intensity}{46}{figure.5.7}%
+\contentsline {subsubsection}{Lean Operational Limit}{46}{figure.5.7}%
+\contentsline {chapter}{\numberline {6}Conclusions and Future Scope}{47}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Conclusions}{47}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Future scope}{48}{section.6.2}%
+\contentsline {chapter}{References}{49}{section.6.2}%

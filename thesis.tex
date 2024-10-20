@@ -1,0 +1,179 @@
+%% PLEASE READ THE COMMENTS BEFORE DOING ANYTHING 
+\documentclass[11pt, a4paper]{book} % Font size=12, a4 paper, both-side printing, and in a book format.
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage[intlimits]{amsmath}%
+\usepackage{amsthm}
+% \usepackage{caption3}
+\usepackage{graphicx}
+\usepackage{latexsym}
+\usepackage{thesis}
+\usepackage{rotating}
+\usepackage{wrapfig}
+\usepackage{colortab}
+\allowdisplaybreaks[1]
+\usepackage{textcomp,gensymb}
+\usepackage{amssymb}
+% \setcounter{secnumdepth}{3}
+\usepackage{tabularx}
+\usepackage{blindtext}
+\usepackage{amstext}
+\usepackage{epstopdf}
+\usepackage{dcolumn}
+\usepackage{array,multirow}
+\usepackage{tikz}
+\usepackage{titlesec}
+\titlespacing*{\subsection}
+{0pt}{0.6\baselineskip}{0.6\baselineskip}
+\titlespacing*{\section}
+{0pt}{0.75\baselineskip}{0.75\baselineskip}
+\titlespacing*{\subsubsection}
+{0pt}{0.5\baselineskip}{0.5\baselineskip}
+% \usepackage[pdftex]{hyperref}
+
+%%--------------------2nd Block Ends--------------------------
+
+\usepackage{algpseudocode}
+\usepackage{enumitem}
+\usepackage{multirow}
+\usepackage{calc}
+\usepackage{verbatim}
+\usepackage{bbding}
+\usepackage{bbm}
+\usepackage{soul}
+\usepackage{dsfont}
+\usepackage{mathrsfs}
+\usepackage{mathtools}
+\usepackage[hypcap=false]{caption}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{subcaption}
+% \usepackage[caption=false]{subfig}
+\usepackage{array}
+\renewcommand{\arraystretch}{1.5}
+\usepackage{cite}
+% \usepackage[square,numbers]{natbib}
+\usepackage{algorithm} 
+\newcommand{\cmt}[1]{ }
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Investigation of Low Emission Reverse Flow Combustors},
+    pdfpagemode=FullScreen,
+    }
+
+\urlstyle{same}
+
+\newcommand{\thesistitle}{Investigation of Low Emission Reverse Flow Combustors}
+\newcommand{\authorname}{Ankit Lakhiwal}
+\newcommand{\authorrollno}{18807102}
+\newcommand{\supervisorname}{Dr. Vaibhav Arghode, Dr. Kaushal Nishad}
+
+\begin{document}
+
+% ------------ Starting of Preamble Pages---------------------
+%\pagenumbering{none}
+%\include{HeadTail/coverpage}
+%\cleardoublepage
+
+\setcounter{page}{1}
+\pagenumbering{roman}
+	
+\include{HeadTail/title}
+\cleardoublepage
+
+% \include{HeadTail/dedication}
+% \cleardoublepage
+
+% \addcontentsline{toc}{chapter}{Certificate of Approval} 
+% \include{HeadTail/Certificate_of_approval_DC} 
+% % After the viva-voce, change the file name to 'Certificate_of_approval.tex'
+% \cleardoublepage
+
+
+% \addcontentsline{toc}{chapter}{Certificate}
+\include{HeadTail/cert}
+\cleardoublepage
+
+% \addcontentsline{toc}{chapter}{Declaration}
+\include{HeadTail/Declaration}
+\cleardoublepage
+
+% \addcontentsline{toc}{chapter}{Abstract}
+\include{HeadTail/abstract}
+\cleardoublepage
+
+\addcontentsline{toc}{chapter}{Acknowledgement}
+\include{HeadTail/ack}
+% \cleardoublepage
+
+
+\renewcommand{\headrulewidth}{0.30pt}    % Width of head rule
+
+% %%%%%%%%%%%%%%%%%% LIST OF SYMBOLS %%%%%%%%%%%%%%%%%%%%%
+\let\cleardoublepage\clearpage
+\addcontentsline{toc}{chapter}{List of Tables}
+\listoftables
+%\cleardoublepage
+
+\clearpage{\pagestyle{empty}\cleardoublepage}
+\addcontentsline{toc}{chapter}{List of Figures}
+\listoffigures
+%\cleardoublepage
+
+% \clearpage{\pagestyle{empty}\cleardoublepage}
+\addcontentsline{toc}{chapter}{List of Symbols}
+\markboth{List of Symbols}{List of Symbols}
+\include{Symbol/listofsymbol}
+% \clearpage{\pagestyle{empty}\cleardoublepage}
+\addcontentsline{toc}{chapter}{List of Abbreviations}
+\markboth{List of Abbreviations}{List of Abbreviations}
+\include{Symbol/abbreviation}
+\clearpage{\pagestyle{empty}\cleardoublepage}
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\tableofcontents
+\cleardoublepage
+
+% %%%------------- End of the Preamble Pages----------------------------
+
+% %%%------------- Starting of the Actual Thesis -----------------------
+\renewcommand{\headrulewidth}{0.30pt} 
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+\begin{spacing}{1.5}
+\include{Chapter1/chapter1}
+\include{Chapter2/chapter2}
+\include{Chapter3/chapter3} 
+\include{Chapter4/chapter4}
+\include{Chapter5/chapter5}
+\include{Chapter6/chapter6}
+\end{spacing}
+
+
+\cmt{
+\renewcommand{\chaptername}{Appendix} %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{spacing}{1}
+\begin{appendix}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% APPENDIX %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\include{Appendix/Appen1} 
+%\include{Appendix/Appen2} 
+
+\clearpage{\pagestyle{empty}\cleardoublepage} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{appendix}
+\end{spacing}
+}
+
+\include{References/references}
+
+\clearpage{\pagestyle{empty}\cleardoublepage}
+
+
+\end{document}
+

@@ -1,0 +1,1753 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.25)  20 OCT 2024 16:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/lakhi/Downloads/18807102 Dual Degree Thesis/thesis.tex"
+(c:/Users/lakhi/Downloads/18807102 Dual Degree Thesis/thesis.tex
+LaTeX2e <2024-06-01> patch level 1
+L3 programming layer <2024-05-27>
+(book.cls
+Document Class: book 2001/04/21 v1.4e Standard LaTeX document class
+(D:\Program Files\MikTex\tex/latex/base\bk11.clo
+File: bk11.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@chapter=\count195
+\c@section=\count196
+\c@subsection=\count197
+\c@subsubsection=\count198
+\c@paragraph=\count199
+\c@subparagraph=\count266
+\c@figure=\count267
+\c@table=\count268
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (D:\Program Files\MikTex\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (D:\Program Files\MikTex\tex/latex/psnfss\mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (D:\Program Files\MikTex\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(D:\Program Files\MikTex\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (D:\Program Files\MikTex\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen142
+)) (D:\Program Files\MikTex\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+) (D:\Program Files\MikTex\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count269
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count270
+\leftroot@=\count271
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count272
+\DOTSCASE@=\count273
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count274
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count275
+\dotsspace@=\muskip17
+\c@parentequation=\count276
+\dspbrk@lvl=\count277
+\tag@help=\toks18
+\row@=\count278
+\column@=\count279
+\maxfields@=\count280
+\andhelp@=\toks19
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks20
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (D:\Program Files\MikTex\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks27
+) (graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+ (D:\Program Files\MikTex\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+) (D:\Program Files\MikTex\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (D:\Program Files\MikTex\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (D:\Program Files\MikTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (D:\Program Files\MikTex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+) (latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 42.
+) (thesis.sty (D:\Program Files\MikTex\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (D:\Program Files\MikTex\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (D:\Program Files\MikTex\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count281
+\Gm@cntv=\count282
+\c@Gm@tempcnt=\count283
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks29
+ (D:\Program Files\MikTex\tex/latex/geometry\geometry.cfg)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (448.07378pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (664.88377pt) is ignored.
+
+) (psfig.sty
+\@unused=\write3
+\ps@stream=\read2
+\p@intvaluex=\dimen161
+\p@intvaluey=\dimen162
+) (D:\Program Files\MikTex\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (D:\Program Files\MikTex\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (D:\Program Files\MikTex\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
+ (D:\Program Files\MikTex\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (D:\Program Files\MikTex\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (D:\Program Files\MikTex\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (D:\Program Files\MikTex\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (D:\Program Files\MikTex\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (D:\Program Files\MikTex\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (D:\Program Files\MikTex\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (D:\Program Files\MikTex\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (D:\Program Files\MikTex\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (D:\Program Files\MikTex\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (D:\Program Files\MikTex\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count284
+) (D:\Program Files\MikTex\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count285
+) (D:\Program Files\MikTex\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count286
+\Hy@pagecounter=\count287
+ (D:\Program Files\MikTex\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (D:\Program Files\MikTex\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count288
+ (D:\Program Files\MikTex\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count289
+ (D:\Program Files\MikTex\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen164
+ (D:\Program Files\MikTex\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (D:\Program Files\MikTex\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count290
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (D:\Program Files\MikTex\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count291
+\c@Item=\count292
+\c@Hfootnote=\count293
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (D:\Program Files\MikTex\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2024-05-23 v7.01i Hyperref driver for pdfTeX
+ (D:\Program Files\MikTex\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count294
+\c@bookmark@seq@number=\count295
+ (D:\Program Files\MikTex\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (D:\Program Files\MikTex\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip57
+) (D:\Program Files\MikTex\tex/latex/tools\longtable.sty
+Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
+\LTleft=\skip58
+\LTright=\skip59
+\LTpre=\skip60
+\LTpost=\skip61
+\LTchunksize=\count296
+\LTcapwidth=\dimen167
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
+\LT@cols=\count297
+\LT@rows=\count298
+\c@LT@tables=\count299
+\c@LT@chunks=\count300
+\LT@p@ftn=\toks30
+) (fancyhdr.sty
+\headwidth=\dimen168
+)
+\c@definition=\count301
+\c@theorem=\count302
+\c@lemma=\count303
+) (rotating.sty
+Package: rotating 1995/08/22 2.10 Rotation package
+ (D:\Program Files\MikTex\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\r@tfl@t=\count304
+\rot@float@box=\box59
+) (wrapfig.sty
+\wrapoverhang=\dimen169
+\WF@size=\dimen170
+\c@WF@wrappedlines=\count305
+\WF@box=\box60
+\WF@everypar=\toks31
+Package: wrapfig 1999/10/12  v 3.3
+) (colortab.sty (colortab.tex   v0.9  93/01/11  <tvz>
+\CT@cnt=\count306
+\CT@dim=\dimen171
+\CT@box=\box61
+\CT@preamble=\toks32
+\CT@LCnum=\count307
+)) (D:\Program Files\MikTex\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (D:\Program Files\MikTex\tex/latex/gensymb\gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+) (D:\Program Files\MikTex\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+ (D:\Program Files\MikTex\tex/latex/tools\array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen172
+\ar@mcellbox=\box62
+\extrarowheight=\dimen173
+\NC@list=\toks33
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box63
+)
+\TX@col@width=\dimen174
+\TX@old@table=\dimen175
+\TX@old@col=\dimen176
+\TX@target=\dimen177
+\TX@delta=\dimen178
+\TX@cols=\count308
+\TX@ftn=\toks34
+) (blindtext.sty
+Package: blindtext 2003/12/14 V1.4 blindtext-Package
+
+Minutes-Package
+(D:\Program Files\MikTex\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count309
+\c@Blindtext=\count310
+\blind@countxx=\count311
+\blindtext@numBlindtext=\count312
+\blind@countyy=\count313
+\c@blindlist=\count314
+\c@blindlistlevel=\count315
+\c@blindlist@level=\count316
+\blind@listitem=\count317
+\c@listcount=\count318
+\c@blind@levelcount=\count319
+
+
+Package blindtext Warning: You are not using babel.sty -> Language by random
+(blindtext)                Kein babel.sty verwendet -> Zufallssprache on input line 211.
+
+) (epstopdf.sty
+Package: epstopdf 2001/02/04 v1.1 Conversion with epstopdf on the fly (HO)
+) (D:\Program Files\MikTex\tex/latex/tools\dcolumn.sty
+Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
+) (D:\Program Files\MikTex\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip64
+\multirow@cntb=\count320
+\multirow@dima=\skip65
+\bigstrutjot=\dimen179
+) (D:\Program Files\MikTex\tex/latex/pgf/frontendlayer\tikz.sty (D:\Program Files\MikTex\tex/latex/pgf/basiclayer\pgf.sty (D:\Program Files\MikTex\tex/latex/pgf/utilities\pgfrcs.sty (D:\Program Files\MikTex\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks35
+\pgfutil@tempdima=\dimen180
+\pgfutil@tempdimb=\dimen181
+) (D:\Program Files\MikTex\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box64
+) (D:\Program Files\MikTex\tex/generic/pgf/utilities\pgfrcs.code.tex (D:\Program Files\MikTex\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (D:\Program Files\MikTex\tex/latex/pgf/basiclayer\pgfcore.sty (D:\Program Files\MikTex\tex/latex/pgf/systemlayer\pgfsys.sty (D:\Program Files\MikTex\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (D:\Program Files\MikTex\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks36
+\pgfkeys@temptoks=\toks37
+ (D:\Program Files\MikTex\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks38
+))
+\pgf@x=\dimen182
+\pgf@y=\dimen183
+\pgf@xa=\dimen184
+\pgf@ya=\dimen185
+\pgf@xb=\dimen186
+\pgf@yb=\dimen187
+\pgf@xc=\dimen188
+\pgf@yc=\dimen189
+\pgf@xd=\dimen190
+\pgf@yd=\dimen191
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count321
+\c@pgf@countb=\count322
+\c@pgf@countc=\count323
+\c@pgf@countd=\count324
+\t@pgf@toka=\toks39
+\t@pgf@tokb=\toks40
+\t@pgf@tokc=\toks41
+\pgf@sys@id@count=\count325
+ (D:\Program Files\MikTex\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (D:\Program Files\MikTex\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (D:\Program Files\MikTex\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (D:\Program Files\MikTex\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count326
+\pgfsyssoftpath@bigbuffer@items=\count327
+) (D:\Program Files\MikTex\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ (D:\Program Files\MikTex\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmath.code.tex (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathutil.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen192
+\pgfmath@count=\count328
+\pgfmath@box=\box65
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathfunctions.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathcalc.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count329
+)) (D:\Program Files\MikTex\tex/generic/pgf/math\pgfint.code.tex) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen193
+\pgf@picmaxx=\dimen194
+\pgf@picminy=\dimen195
+\pgf@picmaxy=\dimen196
+\pgf@pathminx=\dimen197
+\pgf@pathmaxx=\dimen198
+\pgf@pathminy=\dimen199
+\pgf@pathmaxy=\dimen256
+\pgf@xx=\dimen257
+\pgf@xy=\dimen258
+\pgf@yx=\dimen259
+\pgf@yy=\dimen260
+\pgf@zx=\dimen261
+\pgf@zy=\dimen262
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen263
+\pgf@path@lasty=\dimen264
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen265
+\pgf@shorten@start@additional=\dimen266
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box66
+\pgf@hbox=\box67
+\pgf@layerbox@main=\box68
+\pgf@picture@serial@count=\count330
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen267
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen268
+\pgf@pt@y=\dimen269
+\pgf@pt@temp=\dimen270
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen271
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen272
+\pgf@sys@shading@range@num=\count331
+\pgf@shadingcount=\count332
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box69
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\Program Files\MikTex\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (D:\Program Files\MikTex\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box70
+) (D:\Program Files\MikTex\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (D:\Program Files\MikTex\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen273
+\pgf@nodesepend=\dimen274
+) (D:\Program Files\MikTex\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (D:\Program Files\MikTex\tex/latex/pgf/utilities\pgffor.sty (D:\Program Files\MikTex\tex/latex/pgf/utilities\pgfkeys.sty (D:\Program Files\MikTex\tex/generic/pgf/utilities\pgfkeys.code.tex)) (D:\Program Files\MikTex\tex/latex/pgf/math\pgfmath.sty (D:\Program Files\MikTex\tex/generic/pgf/math\pgfmath.code.tex)) (D:\Program Files\MikTex\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen275
+\pgffor@skip=\dimen276
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+)) (D:\Program Files\MikTex\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (D:\Program Files\MikTex\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count333
+\pgfplotmarksize=\dimen277
+)
+\tikz@lastx=\dimen278
+\tikz@lasty=\dimen279
+\tikz@lastxsaved=\dimen280
+\tikz@lastysaved=\dimen281
+\tikz@lastmovetox=\dimen282
+\tikz@lastmovetoy=\dimen283
+\tikzleveldistance=\dimen284
+\tikzsiblingdistance=\dimen285
+\tikz@figbox=\box71
+\tikz@figbox@bg=\box72
+\tikz@tempbox=\box73
+\tikz@tempbox@bg=\box74
+\tikztreelevel=\count334
+\tikznumberofchildren=\count335
+\tikznumberofcurrentchild=\count336
+\tikz@fig@count=\count337
+ (D:\Program Files\MikTex\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count338
+\pgfmatrixcurrentcolumn=\count339
+\pgf@matrix@numberofcolumns=\count340
+)
+\tikz@expandcount=\count341
+ (D:\Program Files\MikTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (D:\Program Files\MikTex\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box75
+\beforetitleunit=\skip66
+\aftertitleunit=\skip67
+\ttl@plus=\dimen286
+\ttl@minus=\dimen287
+\ttl@toksa=\toks47
+\titlewidth=\dimen288
+\titlewidthlast=\dimen289
+\titlewidthfirst=\dimen290
+) (D:\Program Files\MikTex\tex/latex/algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+ (D:\Program Files\MikTex\tex/latex/algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count342
+\c@ALG@rem=\count343
+\c@ALG@nested=\count344
+\ALG@tlm=\skip68
+\ALG@thistlm=\skip69
+\c@ALG@Lnr=\count345
+\c@ALG@blocknr=\count346
+\c@ALG@storecount=\count347
+\c@ALG@tmpcounter=\count348
+\ALG@tmplength=\skip70
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (D:\Program Files\MikTex\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip71
+\enit@outerparindent=\dimen291
+\enit@toks=\toks48
+\enit@inbox=\box76
+\enit@count@id=\count349
+\enitdp@description=\count350
+) (D:\Program Files\MikTex\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count351
+\calc@Bcount=\count352
+\calc@Adimen=\dimen292
+\calc@Bdimen=\dimen293
+\calc@Askip=\skip72
+\calc@Bskip=\skip73
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count353
+\calc@Cskip=\skip74
+) (D:\Program Files\MikTex\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks49
+\verbatim@line=\toks50
+\verbatim@in@stream=\read4
+) (D:\Program Files\MikTex\tex/latex/bbding\bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+) (D:\Program Files\MikTex\tex/latex/bbm\bbm.sty
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+) (D:\Program Files\MikTex\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+ (D:\Program Files\MikTex\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks51
+\SOUL@lasttoken=\toks52
+\SOUL@syllable=\toks53
+\SOUL@cmds=\toks54
+\SOUL@buffer=\toks55
+\SOUL@token=\toks56
+\SOUL@syllgoal=\dimen294
+\SOUL@syllwidth=\dimen295
+\SOUL@charkern=\dimen296
+\SOUL@hyphkern=\dimen297
+\SOUL@dimen=\dimen298
+\SOUL@dimeni=\dimen299
+\SOUL@minus=\count354
+\SOUL@comma=\count355
+\SOUL@apo=\count356
+\SOUL@grave=\count357
+\SOUL@spaceskip=\skip75
+\SOUL@ttwidth=\dimen300
+\SOUL@uldp=\dimen301
+\SOUL@ulht=\dimen302
+) (D:\Program Files\MikTex\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (D:\Program Files\MikTex\tex/latex/doublestroke\dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+) (D:\Program Files\MikTex\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup9
+) (D:\Program Files\MikTex\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2024/03/11 v1.30 mathematical typesetting tools
+ (D:\Program Files\MikTex\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count358
+\l_MT_multwidth_dim=\dimen303
+\origjot=\skip76
+\l_MT_shortvdotswithinadjustabove_dim=\dimen304
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen305
+\l_MT_above_intertext_sep=\dimen306
+\l_MT_below_intertext_sep=\dimen307
+\l_MT_above_shortintertext_sep=\dimen308
+\l_MT_below_shortintertext_sep=\dimen309
+\xmathstrut@box=\box77
+\xmathstrut@dim=\dimen310
+) (D:\Program Files\MikTex\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (D:\Program Files\MikTex\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen311
+\captionmargin=\dimen312
+\caption@leftmargin=\dimen313
+\caption@rightmargin=\dimen314
+\caption@width=\dimen315
+\caption@indent=\dimen316
+\caption@parindent=\dimen317
+\caption@hangindent=\dimen318
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count359
+\c@continuedfloat=\count360
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+ (D:\Program Files\MikTex\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+) (D:\Program Files\MikTex\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count361
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count362
+) (cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (D:\Program Files\MikTex\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (D:\Program Files\MikTex\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count363
+\float@exts=\toks57
+\float@box=\box78
+\@float@everytoks=\toks58
+\@floatcapt=\box79
+)
+\@float@every@algorithm=\toks59
+\c@algorithm=\count364
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 66.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 75.
+ (D:\Program Files\MikTex\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) (D:\Program Files\MikTex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count365
+\l__pdf_internal_box=\box80
+) (thesis.aux (HeadTail/title.aux) (HeadTail/cert.aux) (HeadTail/Declaration.aux) (HeadTail/abstract.aux) (HeadTail/ack.aux) (Symbol/listofsymbol.aux) (Symbol/abbreviation.aux) (Chapter1/chapter1.aux) (Chapter2/chapter2.aux) (Chapter3/chapter3.aux) (Chapter4/chapter4.aux) (Chapter5/chapter5.aux) (Chapter6/chapter6.aux) (References/references.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+ (D:\Program Files\MikTex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count366
+\scratchdimen=\dimen319
+\scratchbox=\box81
+\nofMPsegments=\count367
+\nofMParguments=\count368
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count369
+\MPscratchDim=\dimen320
+\MPnumerator=\count370
+\makeMPintoPDFobject=\count371
+\everyMPtoPDFconversion=\toks61
+) (D:\Program Files\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (D:\Program Files\MikTex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* vratio: 1:1
+* modes: 
+* h-part:(L,W,R)=(99.58464pt, 426.79135pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=702.78308pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=27.31465pt
+* \topmargin=-33.0119pt
+* \headheight=12.5pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=53.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 75.
+(thesis.out) (thesis.out)
+\@outlinefile=\write5
+\openout5 = `thesis.out'.
+
+\symgns@font=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/ptm/m/n --> TS1/ptm/b/n on input line 75.
+Package gensymb Info: Math companion symbols declared on input line 75.
+LaTeX Info: Redefining \degree on input line 75.
+LaTeX Info: Redefining \celsius on input line 75.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 75.
+LaTeX Info: Redefining \ohm on input line 75.
+Package gensymb Info: Using \textohm for \ohm on input line 75.
+Package gensymb Info: Using \textmu for \micro on input line 75.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\openout2 = `HeadTail/title.aux'.
+
+ (HeadTail/title.tex
+<HeadTail/IIT_Kanpur_Logo.png, id=269, 1204.5pt x 1180.41pt>
+File: HeadTail/IIT_Kanpur_Logo.png Graphic file (type png)
+<use HeadTail/IIT_Kanpur_Logo.png>
+Package pdftex.def Info: HeadTail/IIT_Kanpur_Logo.png  used on input line 34.
+(pdftex.def)             Requested size: 113.80379pt x 113.79718pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 43.
+ (D:\Program Files\MikTex\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+[1
+Non-PDF special ignored!
+<special> papersize=597.50787pt,845.04684pt
+
+
+{C:/Users/lakhi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/Program Files/MikTex/fonts/enc/dvips/base/8r.enc} <./HeadTail/IIT_Kanpur_Logo.png>])
+\openout2 = `HeadTail/cert.aux'.
+
+ (HeadTail/cert.tex
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 15--16
+[] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 30.
+(D:\Program Files\MikTex\tex/latex/psnfss\ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 30.
+ (D:\Program Files\MikTex\tex/latex/psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 30.
+ (D:\Program Files\MikTex\tex/latex/psnfss\omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 30.
+ (D:\Program Files\MikTex\tex/latex/psnfss\omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 30.
+ (D:\Program Files\MikTex\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 30.
+ (D:\Program Files\MikTex\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 30.
+ (D:\Program Files\MikTex\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Overfull \hbox (33.76555pt too wide) in paragraph at lines 30--37
+[][] 
+ []
+
+)
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [2
+
+
+
+
+
+
+]
+\openout2 = `HeadTail/Declaration.aux'.
+
+ (HeadTail/Declaration.tex
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 15--16
+[] 
+ []
+
+)
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [3
+
+
+
+
+]
+\openout2 = `HeadTail/abstract.aux'.
+
+ (HeadTail/abstract.tex)
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [4
+
+
+
+
+
+]
+\openout2 = `HeadTail/ack.aux'.
+
+ (HeadTail/ack.tex)
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [5
+
+
+
+
+
+] (thesis.lot)
+\tf@lot=\write6
+\openout6 = `thesis.lot'.
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [6
+
+
+
+] (thesis.lof)
+\tf@lof=\write7
+\openout7 = `thesis.lof'.
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [7
+
+
+
+]
+\openout2 = `Symbol/listofsymbol.aux'.
+
+ (Symbol/listofsymbol.tex)
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [8
+
+
+]
+\openout2 = `Symbol/abbreviation.aux'.
+
+ (Symbol/abbreviation.tex)
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [9
+
+
+
+
+] (thesis.toc
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [10
+
+
+
+
+
+])
+\tf@toc=\write8
+\openout8 = `thesis.toc'.
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [11]
+\openout2 = `Chapter1/chapter1.aux'.
+
+ (Chapter1/chapter1.tex
+{\tt {\large {\bf C H A P T E R\ \ }}} 1.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1.
+(D:\Program Files\MikTex\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [1
+
+
+
+]
+<Chapter1/Images/Conventional combustor.jpeg, id=477, 679.53876pt x 324.21124pt>
+File: Chapter1/Images/Conventional combustor.jpeg Graphic file (type jpg)
+<use Chapter1/Images/Conventional combustor.jpeg>
+Package pdftex.def Info: Chapter1/Images/Conventional combustor.jpeg  used on input line 21.
+(pdftex.def)             Requested size: 341.43437pt x 162.89674pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [2]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [3 <./Chapter1/Images/Conventional combustor.jpeg>]
+<Chapter1/Images/emissionWithEq.jpeg, id=495, 316.18124pt x 344.28625pt>
+File: Chapter1/Images/emissionWithEq.jpeg Graphic file (type jpg)
+<use Chapter1/Images/emissionWithEq.jpeg>
+Package pdftex.def Info: Chapter1/Images/emissionWithEq.jpeg  used on input line 63.
+(pdftex.def)             Requested size: 213.39568pt x 232.36742pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [4]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [5 <./Chapter1/Images/emissionWithEq.jpeg>]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [6]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [7]
+<Chapter1/Images/NoxMechanism.jpeg, id=531, 733.74126pt x 748.7975pt>
+File: Chapter1/Images/NoxMechanism.jpeg Graphic file (type jpg)
+<use Chapter1/Images/NoxMechanism.jpeg>
+Package pdftex.def Info: Chapter1/Images/NoxMechanism.jpeg  used on input line 121.
+(pdftex.def)             Requested size: 256.07741pt x 261.32895pt.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 137.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 138.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [8 <./Chapter1/Images/NoxMechanism.jpeg>]
+<Chapter1/Images/reaction4.png, id=540, 275.0275pt x 217.81375pt>
+File: Chapter1/Images/reaction4.png Graphic file (type png)
+<use Chapter1/Images/reaction4.png>
+Package pdftex.def Info: Chapter1/Images/reaction4.png  used on input line 154.
+(pdftex.def)             Requested size: 170.71393pt x 135.20265pt.
+<Chapter1/Images/NoxVsTemp.jpeg, id=541, 491.8375pt x 507.8975pt>
+File: Chapter1/Images/NoxVsTemp.jpeg Graphic file (type jpg)
+<use Chapter1/Images/NoxVsTemp.jpeg>
+Package pdftex.def Info: Chapter1/Images/NoxVsTemp.jpeg  used on input line 168.
+(pdftex.def)             Requested size: 298.75264pt x 308.51505pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (0.51704pt too wide) in paragraph at lines 177--178
+[]\T1/ptm/m/n/10.95 Oxygen Con-cen-tra-tion: Avail-abil-ity of oxy-gen af-fects the re-ac-tions in-volv-ing ni-tro-gen atoms
+ []
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [9 <./Chapter1/Images/reaction4.png>]
+<Chapter1/Images/reaction3.png, id=549, 153.57375pt x 47.17625pt>
+File: Chapter1/Images/reaction3.png Graphic file (type png)
+<use Chapter1/Images/reaction3.png>
+Package pdftex.def Info: Chapter1/Images/reaction3.png  used on input line 187.
+(pdftex.def)             Requested size: 85.35696pt x 26.22127pt.
+<Chapter1/Images/reaction2.png, id=551, 219.82124pt x 113.42375pt>
+File: Chapter1/Images/reaction2.png Graphic file (type png)
+<use Chapter1/Images/reaction2.png>
+Package pdftex.def Info: Chapter1/Images/reaction2.png  used on input line 197.
+(pdftex.def)             Requested size: 128.0387pt x 66.06792pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [10 <./Chapter1/Images/NoxVsTemp.jpeg> <./Chapter1/Images/reaction3.png> <./Chapter1/Images/reaction2.png>]
+<Chapter1/Images/reaction1.png, id=557, 222.8325pt x 233.87375pt>
+File: Chapter1/Images/reaction1.png Graphic file (type png)
+<use Chapter1/Images/reaction1.png>
+Package pdftex.def Info: Chapter1/Images/reaction1.png  used on input line 232.
+(pdftex.def)             Requested size: 128.0387pt x 134.38356pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [11 <./Chapter1/Images/reaction1.png>]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [12]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [13]
+<Chapter1/Images/FlowConfiguration.png, id=573, 300.3722pt x 490.83376pt>
+File: Chapter1/Images/FlowConfiguration.png Graphic file (type png)
+<use Chapter1/Images/FlowConfiguration.png>
+Package pdftex.def Info: Chapter1/Images/FlowConfiguration.png  used on input line 301.
+(pdftex.def)             Requested size: 298.75264pt x 488.2262pt.
+)
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [14]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [15 <./Chapter1/Images/FlowConfiguration.png>]
+\openout2 = `Chapter2/chapter2.aux'.
+
+ (Chapter2/chapter2.tex
+{\tt {\large {\bf C H A P T E R\ \ }}} 2.
+<Chapter2/Images/HiTAC.png, id=611, 409.53pt x 593.96906pt>
+File: Chapter2/Images/HiTAC.png Graphic file (type png)
+<use Chapter2/Images/HiTAC.png>
+Package pdftex.def Info: Chapter2/Images/HiTAC.png  used on input line 11.
+(pdftex.def)             Requested size: 170.71393pt x 247.59828pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [16
+
+
+
+
+]
+<Chapter2/Images/CDC.png, id=642, 201.00093pt x 181.42781pt>
+File: Chapter2/Images/CDC.png Graphic file (type png)
+<use Chapter2/Images/CDC.png>
+Package pdftex.def Info: Chapter2/Images/CDC.png  used on input line 21.
+(pdftex.def)             Requested size: 157.9107pt x 142.53188pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [17 <./Chapter2/Images/HiTAC.png> <./Chapter2/Images/CDC.png>]
+<Chapter2/Images/FLOX.jpeg, id=657, 951.555pt x 489.83pt>
+File: Chapter2/Images/FLOX.jpeg Graphic file (type jpg)
+<use Chapter2/Images/FLOX.jpeg>
+Package pdftex.def Info: Chapter2/Images/FLOX.jpeg  used on input line 35.
+(pdftex.def)             Requested size: 298.75264pt x 153.78902pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [18 <./Chapter2/Images/FLOX.jpeg>]
+<Chapter2/Images/MILD.jpg, id=668, 247.50876pt x 347.9193pt>
+File: Chapter2/Images/MILD.jpg Graphic file (type jpg)
+<use Chapter2/Images/MILD.jpg>
+Package pdftex.def Info: Chapter2/Images/MILD.jpg  used on input line 48.
+(pdftex.def)             Requested size: 213.39568pt x 299.97452pt.
+
+Underfull \hbox (badness 1033) in paragraph at lines 55--56
+\T1/ptm/m/n/10.95 bus-tion burner op-er-at-ing in a re-verse flow
+ []
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [19 <./Chapter2/Images/MILD.jpg>]
+<Chapter2/Images/PAWC.jpeg, id=678, 675.52374pt x 547.04375pt>
+File: Chapter2/Images/PAWC.jpeg Graphic file (type jpg)
+<use Chapter2/Images/PAWC.jpeg>
+Package pdftex.def Info: Chapter2/Images/PAWC.jpeg  used on input line 60.
+(pdftex.def)             Requested size: 170.71393pt x 138.2464pt.
+<Chapter2/Images/FODI.jpeg, id=682, 527.9725pt x 752.8125pt>
+File: Chapter2/Images/FODI.jpeg Graphic file (type jpg)
+<use Chapter2/Images/FODI.jpeg>
+Package pdftex.def Info: Chapter2/Images/FODI.jpeg  used on input line 72.
+(pdftex.def)             Requested size: 128.0387pt x 182.56255pt.
+
+Underfull \hbox (badness 2452) in paragraph at lines 73--73
+[]\T1/ptm/m/n/10.95 Figure 2.6: |[]Schematic of
+ []
+
+<Chapter2/Images/HILE.png, id=687, 338.76563pt x 590.205pt>
+File: Chapter2/Images/HILE.png Graphic file (type png)
+<use Chapter2/Images/HILE.png>
+Package pdftex.def Info: Chapter2/Images/HILE.png  used on input line 84.
+(pdftex.def)             Requested size: 128.0387pt x 223.07344pt.
+
+Underfull \hbox (badness 2452) in paragraph at lines 86--86
+[]\T1/ptm/m/n/10.95 Figure 2.7: |[]Schematic of
+ []
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [20 <./Chapter2/Images/PAWC.jpeg> <./Chapter2/Images/FODI.jpeg>]
+<Chapter2/Images/JSR.jpeg, id=697, 347.2975pt x 312.16624pt>
+File: Chapter2/Images/JSR.jpeg Graphic file (type jpg)
+<use Chapter2/Images/JSR.jpeg>
+Package pdftex.def Info: Chapter2/Images/JSR.jpeg  used on input line 97.
+(pdftex.def)             Requested size: 140.84192pt x 126.59811pt.
+<Chapter2/Images/TVC.jpeg, id=702, 463.7325pt x 818.05624pt>
+File: Chapter2/Images/TVC.jpeg Graphic file (type jpg)
+<use Chapter2/Images/TVC.jpeg>
+Package pdftex.def Info: Chapter2/Images/TVC.jpeg  used on input line 108.
+(pdftex.def)             Requested size: 170.71393pt x 301.1532pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [21 <./Chapter2/Images/HILE.png> <./Chapter2/Images/JSR.jpeg>]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [22 <./Chapter2/Images/TVC.jpeg>]
+<Chapter2/Images/DLN.jpeg, id=716, 349.305pt x 751.80875pt>
+File: Chapter2/Images/DLN.jpeg Graphic file (type jpg)
+<use Chapter2/Images/DLN.jpeg>
+Package pdftex.def Info: Chapter2/Images/DLN.jpeg  used on input line 123.
+(pdftex.def)             Requested size: 106.69783pt x 229.63974pt.
+<Chapter2/Images/PVRF.jpg, id=722, 248.78787pt x 292.91734pt>
+File: Chapter2/Images/PVRF.jpg Graphic file (type jpg)
+<use Chapter2/Images/PVRF.jpg>
+Package pdftex.def Info: Chapter2/Images/PVRF.jpg  used on input line 137.
+(pdftex.def)             Requested size: 149.37958pt x 175.8769pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [23 <./Chapter2/Images/DLN.jpeg> <./Chapter2/Images/PVRF.jpg>]
+<Chapter2/Images/SPRF_.jpeg, id=734, 959.585pt x 734.745pt>
+File: Chapter2/Images/SPRF_.jpeg Graphic file (type jpg)
+<use Chapter2/Images/SPRF_.jpeg>
+Package pdftex.def Info: Chapter2/Images/SPRF_.jpeg  used on input line 152.
+(pdftex.def)             Requested size: 341.43437pt x 261.4361pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [24 <./Chapter2/Images/SPRF_.jpeg>])
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [25]
+\openout2 = `Chapter3/chapter3.aux'.
+
+ (Chapter3/chapter3.tex
+{\tt {\large {\bf C H A P T E R\ \ }}} 3.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [26
+
+
+
+
+]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [27]
+<Chapter3/Images/MixingTime.jpeg, id=784, 577.15625pt x 574.145pt>
+File: Chapter3/Images/MixingTime.jpeg Graphic file (type jpg)
+<use Chapter3/Images/MixingTime.jpeg>
+Package pdftex.def Info: Chapter3/Images/MixingTime.jpeg  used on input line 76.
+(pdftex.def)             Requested size: 124.19768pt x 123.5439pt.
+<Chapter3/Images/residenceTimeVsIntensity.jpeg, id=787, 430.60875pt x 432.61626pt>
+File: Chapter3/Images/residenceTimeVsIntensity.jpeg Graphic file (type jpg)
+<use Chapter3/Images/residenceTimeVsIntensity.jpeg>
+Package pdftex.def Info: Chapter3/Images/residenceTimeVsIntensity.jpeg  used on input line 83.
+(pdftex.def)             Requested size: 124.19768pt x 124.77557pt.
+<Chapter3/Images/conversionRateCOtoCo2.jpeg, id=788, 431.6125pt x 428.60126pt>
+File: Chapter3/Images/conversionRateCOtoCo2.jpeg Graphic file (type jpg)
+<use Chapter3/Images/conversionRateCOtoCo2.jpeg>
+Package pdftex.def Info: Chapter3/Images/conversionRateCOtoCo2.jpeg  used on input line 90.
+(pdftex.def)             Requested size: 124.19768pt x 123.3298pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
+)
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [28 <./Chapter3/Images/MixingTime.jpeg> <./Chapter3/Images/residenceTimeVsIntensity.jpeg> <./Chapter3/Images/conversionRateCOtoCo2.jpeg>]
+\openout2 = `Chapter4/chapter4.aux'.
+
+ (Chapter4/chapter4.tex
+{\tt {\large {\bf C H A P T E R\ \ }}} 4.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [29
+
+
+
+
+]
+<Chapter4/Images/Mesh.png, id=802, 889.82437pt x 715.17188pt>
+File: Chapter4/Images/Mesh.png Graphic file (type png)
+<use Chapter4/Images/Mesh.png>
+Package pdftex.def Info: Chapter4/Images/Mesh.png  used on input line 12.
+(pdftex.def)             Requested size: 384.1096pt x 308.71829pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [30 <./Chapter4/Images/Mesh.png>]
+Overfull \hbox (2.49345pt too wide) in paragraph at lines 45--46
+[]\T1/ptm/m/n/10.95 The turbulence-chemistry in-ter-ac-tions are ac-counted by us-ing Eddy Dis-si-pa-tion Con-cept Model
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [31]
+<Chapter4/Images/PVRF.drawio.png, id=816, 469.755pt x 510.90875pt>
+File: Chapter4/Images/PVRF.drawio.png Graphic file (type png)
+<use Chapter4/Images/PVRF.drawio.png>
+Package pdftex.def Info: Chapter4/Images/PVRF.drawio.png  used on input line 126.
+(pdftex.def)             Requested size: 213.39568pt x 232.08965pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Chapter4/Images/SPRF.drawio.png, id=817, 469.755pt x 511.9125pt>
+File: Chapter4/Images/SPRF.drawio.png Graphic file (type png)
+<use Chapter4/Images/SPRF.drawio.png>
+Package pdftex.def Info: Chapter4/Images/SPRF.drawio.png  used on input line 132.
+(pdftex.def)             Requested size: 213.39568pt x 232.54561pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [32]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 151.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 151.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 151.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 151.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 151.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 151.
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [33]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [34 <./Chapter4/Images/PVRF.drawio.png>]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [35 <./Chapter4/Images/SPRF.drawio.png>]
+<Chapter4/Images/PVRF_Lab.png, id=847, 812.28468pt x 951.555pt>
+File: Chapter4/Images/PVRF_Lab.png Graphic file (type png)
+<use Chapter4/Images/PVRF_Lab.png>
+Package pdftex.def Info: Chapter4/Images/PVRF_Lab.png  used on input line 184.
+(pdftex.def)             Requested size: 405.45047pt x 474.96324pt.
+<Chapter4/Images/SPRF_Lab.png, id=848, 802.49812pt x 958.3303pt>
+File: Chapter4/Images/SPRF_Lab.png Graphic file (type png)
+<use Chapter4/Images/SPRF_Lab.png>
+Package pdftex.def Info: Chapter4/Images/SPRF_Lab.png  used on input line 190.
+(pdftex.def)             Requested size: 405.45047pt x 484.19426pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [36 <./Chapter4/Images/PVRF_Lab.png>]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [37 <./Chapter4/Images/SPRF_Lab.png>]
+\openout2 = `Chapter5/chapter5.aux'.
+
+ (Chapter5/chapter5.tex
+{\tt {\large {\bf C H A P T E R\ \ }}} 5.
+<Chapter5/Images/Numerical/Contours/vel_contsNonReacting.png, id=860, 960.58875pt x 531.48563pt>
+File: Chapter5/Images/Numerical/Contours/vel_contsNonReacting.png Graphic file (type png)
+<use Chapter5/Images/Numerical/Contours/vel_contsNonReacting.png>
+Package pdftex.def Info: Chapter5/Images/Numerical/Contours/vel_contsNonReacting.png  used on input line 17.
+(pdftex.def)             Requested size: 298.75264pt x 165.29408pt.
+<Chapter5/Images/Numerical/Contours/vel_contsReacting.png, id=861, 992.95969pt x 517.935pt>
+File: Chapter5/Images/Numerical/Contours/vel_contsReacting.png Graphic file (type png)
+<use Chapter5/Images/Numerical/Contours/vel_contsReacting.png>
+Package pdftex.def Info: Chapter5/Images/Numerical/Contours/vel_contsReacting.png  used on input line 24.
+(pdftex.def)             Requested size: 311.55586pt x 162.51022pt.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [38
+
+
+
+
+]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [39 <./Chapter5/Images/Numerical/Contours/vel_contsNonReacting.png> <./Chapter5/Images/Numerical/Contours/vel_contsReacting.png>]
+<Chapter5/Images/Numerical/Contours/temp_contsReacting.png, id=877, 979.40906pt x 524.71031pt>
+File: Chapter5/Images/Numerical/Contours/temp_contsReacting.png Graphic file (type png)
+<use Chapter5/Images/Numerical/Contours/temp_contsReacting.png>
+Package pdftex.def Info: Chapter5/Images/Numerical/Contours/temp_contsReacting.png  used on input line 41.
+(pdftex.def)             Requested size: 298.75264pt x 160.04842pt.
+<Chapter5/Images/Numerical/Recirculation ratio/RR_NR.png, id=880, 526.96875pt x 395.22656pt>
+File: Chapter5/Images/Numerical/Recirculation ratio/RR_NR.png Graphic file (type png)
+<use Chapter5/Images/Numerical/Recirculation ratio/RR_NR.png>
+Package pdftex.def Info: Chapter5/Images/Numerical/Recirculation ratio/RR_NR.png  used on input line 60.
+(pdftex.def)             Requested size: 202.72523pt x 152.04509pt.
+<Chapter5/Images/Numerical/Recirculation ratio/RR_R.png, id=881, 526.96875pt x 395.22656pt>
+File: Chapter5/Images/Numerical/Recirculation ratio/RR_R.png Graphic file (type png)
+<use Chapter5/Images/Numerical/Recirculation ratio/RR_R.png>
+Package pdftex.def Info: Chapter5/Images/Numerical/Recirculation ratio/RR_R.png  used on input line 66.
+(pdftex.def)             Requested size: 202.72523pt x 152.04509pt.
+
+Overfull \hbox (2.0805pt too wide) in paragraph at lines 58--70
+[][] [] 
+ []
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [40 <./Chapter5/Images/Numerical/Contours/temp_contsReacting.png>]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [41 <./Chapter5/Images/Numerical/Recirculation ratio/RR_NR.png (PNG copy)> <./Chapter5/Images/Numerical/Recirculation ratio/RR_R.png (PNG copy)>]
+<Chapter5/Images/Experimental/Global images/Global.png, id=896, 1885.0425pt x 2785.40625pt>
+File: Chapter5/Images/Experimental/Global images/Global.png Graphic file (type png)
+<use Chapter5/Images/Experimental/Global images/Global.png>
+Package pdftex.def Info: Chapter5/Images/Experimental/Global images/Global.png  used on input line 86.
+(pdftex.def)             Requested size: 405.45047pt x 599.1057pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Chapter5/Images/Experimental/Chemiluminiscene/Chems.png, id=898, 1885.0425pt x 2939.73282pt>
+File: Chapter5/Images/Experimental/Chemiluminiscene/Chems.png Graphic file (type png)
+<use Chapter5/Images/Experimental/Chemiluminiscene/Chems.png>
+Package pdftex.def Info: Chapter5/Images/Experimental/Chemiluminiscene/Chems.png  used on input line 97.
+(pdftex.def)             Requested size: 362.77525pt x 565.73212pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Chapter5/Images/Experimental/Chemiluminiscene/imgAvgST1.png, id=899, 526.96875pt x 395.22656pt>
+File: Chapter5/Images/Experimental/Chemiluminiscene/imgAvgST1.png Graphic file (type png)
+<use Chapter5/Images/Experimental/Chemiluminiscene/imgAvgST1.png>
+Package pdftex.def Info: Chapter5/Images/Experimental/Chemiluminiscene/imgAvgST1.png  used on input line 105.
+(pdftex.def)             Requested size: 202.72523pt x 152.04509pt.
+<Chapter5/Images/Experimental/Chemiluminiscene/coeffVar1.png, id=900, 526.96875pt x 395.22656pt>
+File: Chapter5/Images/Experimental/Chemiluminiscene/coeffVar1.png Graphic file (type png)
+<use Chapter5/Images/Experimental/Chemiluminiscene/coeffVar1.png>
+Package pdftex.def Info: Chapter5/Images/Experimental/Chemiluminiscene/coeffVar1.png  used on input line 111.
+(pdftex.def)             Requested size: 202.72523pt x 152.04509pt.
+
+Overfull \hbox (2.0805pt too wide) in paragraph at lines 103--115
+[][] [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [42]
+Overfull \vbox (3.66269pt too high) has occurred while \output is active []
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [43 <./Chapter5/Images/Experimental/Global images/Global.png>]
+<Chapter5/Images/Experimental/Emissions/CO Emission.png, id=916, 421.575pt x 316.18124pt>
+File: Chapter5/Images/Experimental/Emissions/CO Emission.png Graphic file (type png)
+<use Chapter5/Images/Experimental/Emissions/CO Emission.png>
+Package pdftex.def Info: Chapter5/Images/Experimental/Emissions/CO Emission.png  used on input line 130.
+(pdftex.def)             Requested size: 202.72523pt x 152.04509pt.
+<Chapter5/Images/Experimental/Emissions/NoxEmmision.png, id=917, 421.575pt x 316.18124pt>
+File: Chapter5/Images/Experimental/Emissions/NoxEmmision.png Graphic file (type png)
+<use Chapter5/Images/Experimental/Emissions/NoxEmmision.png>
+Package pdftex.def Info: Chapter5/Images/Experimental/Emissions/NoxEmmision.png  used on input line 136.
+(pdftex.def)             Requested size: 202.72523pt x 152.04509pt.
+
+Overfull \hbox (2.0805pt too wide) in paragraph at lines 128--140
+[][] [] 
+ []
+
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [44 <./Chapter5/Images/Experimental/Chemiluminiscene/Chems.png>]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [45 <./Chapter5/Images/Experimental/Chemiluminiscene/imgAvgST1.png (PNG copy)> <./Chapter5/Images/Experimental/Chemiluminiscene/coeffVar1.png (PNG copy)> <./Chapter5/Images/Experimental/Emissions/CO Emission.png (PNG copy)> <./Chapter5/Images/Experimental/Emissions/NoxEmmision.png (PNG copy)>]
+<Chapter5/Images/Experimental/Emissions/NOxVsCHs.png, id=934, 421.575pt x 316.18124pt>
+File: Chapter5/Images/Experimental/Emissions/NOxVsCHs.png Graphic file (type png)
+<use Chapter5/Images/Experimental/Emissions/NOxVsCHs.png>
+Package pdftex.def Info: Chapter5/Images/Experimental/Emissions/NOxVsCHs.png  used on input line 154.
+(pdftex.def)             Requested size: 202.72523pt x 152.04509pt.
+<Chapter5/Images/Experimental/Emissions/LoL.png, id=935, 432.8973pt x 302.8113pt>
+File: Chapter5/Images/Experimental/Emissions/LoL.png Graphic file (type png)
+<use Chapter5/Images/Experimental/Emissions/LoL.png>
+Package pdftex.def Info: Chapter5/Images/Experimental/Emissions/LoL.png  used on input line 160.
+(pdftex.def)             Requested size: 202.72523pt x 141.80382pt.
+
+Overfull \hbox (2.0805pt too wide) in paragraph at lines 152--164
+[][] [] 
+ []
+
+)
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [46 <./Chapter5/Images/Experimental/Emissions/NOxVsCHs.png (PNG copy)> <./Chapter5/Images/Experimental/Emissions/LoL.png>]
+\openout2 = `Chapter6/chapter6.aux'.
+
+ (Chapter6/chapter6.tex
+{\tt {\large {\bf C H A P T E R\ \ }}} 6.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [47
+
+
+
+
+])
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [48]
+\openout2 = `References/references.aux'.
+
+ (References/references.tex (thesis.bbl
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `English'. Using the pattern for
+** the default language instead.
+
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [49
+
+
+
+
+
+
+]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [50]
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [51])
+
+
+Overfull \vbox (1.09999pt too high) has occurred while \output is active []
+
+ [52]) (thesis.aux (HeadTail/title.aux) (HeadTail/cert.aux) (HeadTail/Declaration.aux) (HeadTail/abstract.aux) (HeadTail/ack.aux) (Symbol/listofsymbol.aux) (Symbol/abbreviation.aux) (Chapter1/chapter1.aux) (Chapter2/chapter2.aux) (Chapter3/chapter3.aux) (Chapter4/chapter4.aux) (Chapter5/chapter5.aux) (Chapter6/chapter6.aux) (References/references.aux))
+ ***********
+LaTeX2e <2024-06-01> patch level 1
+L3 programming layer <2024-05-27>
+ ***********
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: CFFFDC4FE5A11C2B773CF2A0572D09A5;11633.
+ ) 
+Here is how much of TeX's memory you used:
+ 27566 strings out of 473920
+ 506605 string characters out of 5736789
+ 1952908 words of memory out of 5000000
+ 49485 multiletter control sequences out of 15000+600000
+ 646693 words of font info for 198 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 90i,13n,93p,2771b,1057s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\lakhi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><D:/Program Files/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MikTex/fonts/type1/urw/symbol/usyr.pfb><D:/Program Files/MikTex/fonts/type1/urw/symbol/usyr.pfb><D:/Program Files/MikTex/fonts/type1/urw/times/utmb8a.pfb><D:/Program Files/MikTex/fonts/type1/urw/times/utmbi8a.pfb><D:/Program Files/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/Program Files/MikTex/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (63 pages, 19610515 bytes).
+PDF statistics:
+ 1145 PDF objects out of 1200 (max. 8388607)
+ 261 named destinations out of 1000 (max. 500000)
+ 756 words of extra memory for PDF output out of 10000 (max. 10000000)
+
