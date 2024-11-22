@@ -46,45 +46,45 @@ Warning--missing school in SKG2017
 Warning--empty booktitle in He2008FlamelessCO
 
 Done.
-You've used 62 entries,
+You've used 64 entries,
             4087 wiz_defined-function locations,
-            1293 strings with 21200 characters,
-and the built_in function-call counts, 48492 in all, are:
-= -- 4300
-> -- 961
-< -- 415
-+ -- 558
-- -- 157
-* -- 2438
-:= -- 7755
-add.period$ -- 123
-call.type$ -- 62
-change.case$ -- 63
-chr.to.int$ -- 852
-cite$ -- 65
-duplicate$ -- 3401
-empty$ -- 3535
-format.name$ -- 205
-if$ -- 11262
+            1305 strings with 21610 characters,
+and the built_in function-call counts, 50327 in all, are:
+= -- 4468
+> -- 1004
+< -- 430
++ -- 582
+- -- 165
+* -- 2533
+:= -- 8040
+add.period$ -- 127
+call.type$ -- 64
+change.case$ -- 65
+chr.to.int$ -- 879
+cite$ -- 67
+duplicate$ -- 3533
+empty$ -- 3657
+format.name$ -- 215
+if$ -- 11691
 int.to.chr$ -- 0
-int.to.str$ -- 62
-missing$ -- 565
-newline$ -- 303
-num.names$ -- 60
-pop$ -- 1081
+int.to.str$ -- 64
+missing$ -- 587
+newline$ -- 313
+num.names$ -- 62
+pop$ -- 1121
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 3908
+skip$ -- 4057
 stack$ -- 0
-substring$ -- 2157
-swap$ -- 2959
-text.length$ -- 131
+substring$ -- 2234
+swap$ -- 3080
+text.length$ -- 137
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 62
+type$ -- 64
 warning$ -- 3
-while$ -- 186
-width$ -- 64
-write$ -- 791
+while$ -- 192
+width$ -- 66
+write$ -- 819
 (There were 3 warnings)

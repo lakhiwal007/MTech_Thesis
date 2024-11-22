@@ -379,7 +379,7 @@
                       \@afterheading
                     \fi}
 \def\@makechapterhead#1{%
-  \vspace*{100\p@}%
+  \vspace*{50\p@}%
   {\begin{flushleft}%
     \ifnum \c@secnumdepth >\m@ne
       \if@mainmatter
