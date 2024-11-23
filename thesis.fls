@@ -961,7 +961,6 @@ INPUT .\thesis.bbl
 INPUT .\thesis.bbl
 INPUT thesis.bbl
 INPUT D:\Program Files\MikTex\fonts\tfm\adobe\times\ptmr8t.tfm
-INPUT D:\Program Files\MikTex\fonts\tfm\adobe\times\ptmri8t.tfm
 INPUT D:\Program Files\MikTex\fonts\tfm\adobe\times\zptmcm7t.tfm
 INPUT D:\Program Files\MikTex\fonts\tfm\adobe\times\zptmcm7m.tfm
 INPUT D:\Program Files\MikTex\fonts\tfm\adobe\times\zptmcm7y.tfm
@@ -973,6 +972,7 @@ INPUT D:\Program Files\MikTex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT D:\Program Files\MikTex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\lakhi\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
 INPUT D:\Program Files\MikTex\fonts\tfm\adobe\times\ptmr8c.tfm
+INPUT D:\Program Files\MikTex\fonts\tfm\adobe\times\ptmri8t.tfm
 INPUT D:\Program Files\MikTex\fonts\vf\adobe\times\ptmr8t.vf
 INPUT D:\Program Files\MikTex\fonts\vf\adobe\times\ptmri8t.vf
 INPUT D:\Program Files\MikTex\fonts\tfm\adobe\times\ptmri8r.tfm

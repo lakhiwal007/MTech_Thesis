@@ -22,8 +22,11 @@
 \BIBdecl
 
 \bibitem{VAThesis2011}
-V.~K. Arghode, ``Development of colorless distributed combustion for gas
-  turbine application,'' Master's thesis, 2011.
+\BIBentryALTinterwordspacing
+A.~Gupta, Ashwani~K., ``Development of colorless distributed combustion for gas
+  turbine application,'' Master's thesis, University of Maryland (College Park,
+  Md.), 2011. [Online]. Available: \url{http://hdl.handle.net/1903/12230}
+\BIBentrySTDinterwordspacing
 
 \bibitem{VA2011}
 \BIBentryALTinterwordspacing
@@ -33,6 +36,11 @@ V.~K. Arghode and A.~K. Gupta, ``Development of high intensity cdc combustor
   \url{https://www.sciencedirect.com/science/article/pii/S0306261910003089}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Lefebvre2009}
+A.~H. Lefebvre and D.~R. Ballal, \emph{\BIBforeignlanguage{en}{Gas turbine
+  combustion}}, 3rd~ed.\hskip 1em plus 0.5em minus 0.4em\relax Boca Raton, FL:
+  CRC Press, Jul. 2009.
+
 \bibitem{LTY2013}
 Y.~V. Lieuwen~T.C., \emph{Gas Turbine Emissions}.\hskip 1em plus 0.5em minus
   0.4em\relax Cambridge University Press, 2013.
@@ -41,10 +49,21 @@ Y.~V. Lieuwen~T.C., \emph{Gas Turbine Emissions}.\hskip 1em plus 0.5em minus
 A.~H. Lefebvre, \emph{Gas Turbine Combustion: Alternative Fuels and
   Emissions}.\hskip 1em plus 0.5em minus 0.4em\relax CRC Press, 2010.
 
-\bibitem{EG_1950}
-E.G., ``The theory and design of gas turbines and jet engines. e. t. vincent.
-  mcgraw-hill. 1950. 606 pp. illustrations. diagrams. index. bibliography.''
-  \emph{The Aeronautical Journal}, vol.~54, no. 477, p. 606–607, 1950.
+\bibitem{10.1115/1.4043437}
+\BIBentryALTinterwordspacing
+P.~Sharma, N.~Jain, and V.~K. Arghode, ``Investigation of a low emission liquid
+  fueled reverse-cross-flow combustor,'' \emph{Journal of Energy Resources
+  Technology}, vol. 141, no.~10, p. 102202, 04 2019. [Online]. Available:
+  \url{https://doi.org/10.1115/1.4043437}
+\BIBentrySTDinterwordspacing
+
+\bibitem{AGARWAL20171}
+\BIBentryALTinterwordspacing
+A.~K. Agarwal, A.~P. Singh, and R.~K. Maurya, ``Evolution, challenges and path
+  forward for low temperature combustion engines,'' \emph{Progress in Energy
+  and Combustion Science}, vol.~61, pp. 1--56, 2017. [Online]. Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S0360128516300739}
+\BIBentrySTDinterwordspacing
 
 \bibitem{SKG2017}
 \BIBentryALTinterwordspacing
@@ -53,10 +72,20 @@ S.~K. Gupta, ``Investigation of a low emission reverse cross flow colorless
   \url{http://172.28.64.70:8080/jspui/handle/123456789/16913}
 \BIBentrySTDinterwordspacing
 
-\bibitem{StephenCombustion2011}
-S.~R. Turns, \emph{An Introduction To Combustion: Concepts And
-  Applications}.\hskip 1em plus 0.5em minus 0.4em\relax McGraw-Hill Education,
-  2011.
+\bibitem{doi:10.2514/6.2012-522}
+\BIBentryALTinterwordspacing
+C.~Mendez, R.~Parthasarathy, and S.~Gollahalli, \emph{Performance and Emission
+  Characteristics of a Small-Scale Gas Turbine Engine Fueled with Ethanol/Jet A
+  Blends}. [Online]. Available:
+  \url{https://arc.aiaa.org/doi/abs/10.2514/6.2012-522}
+\BIBentrySTDinterwordspacing
+
+\bibitem{doi:10.2514/6.2013-3677}
+\BIBentryALTinterwordspacing
+R.~N. Parthasarathy, S.~Gollahalli, and C.~Attaphong, \emph{Combustion
+  Properties of Jet A/Ethanol Blends in a Porous Media Burner}. [Online].
+  Available: \url{https://arc.aiaa.org/doi/abs/10.2514/6.2013-3677}
+\BIBentrySTDinterwordspacing
 
 \bibitem{GTT1996}
 H.~Cohen, G.~Rogers, and H.~Saravanamuttoo,
@@ -446,13 +475,18 @@ P.~Li, F.~Wang, J.~Mi, B.~B. Dally, and Z.~Mei, ``Mild combustion under
   Available: \url{https://doi.org/10.1021/ef402357t}
 \BIBentrySTDinterwordspacing
 
-\bibitem{10.1115/1.4043437}
+\bibitem{doi:10.1021/acs.energyfuels.7b03607}
 \BIBentryALTinterwordspacing
-P.~Sharma, N.~Jain, and V.~K. Arghode, ``Investigation of a low emission liquid
-  fueled reverse-cross-flow combustor,'' \emph{Journal of Energy Resources
-  Technology}, vol. 141, no.~10, p. 102202, 04 2019. [Online]. Available:
-  \url{https://doi.org/10.1115/1.4043437}
+M.~A. Nemitallah, S.~S. Rashwan, I.~B. Mansir, A.~A. Abdelhafez, and M.~A.
+  Habib, ``Review of novel combustion techniques for clean power production in
+  gas turbines,'' \emph{Energy \& Fuels}, vol.~32, no.~2, pp. 979--1004, 2018.
+  [Online]. Available: \url{https://doi.org/10.1021/acs.energyfuels.7b03607}
 \BIBentrySTDinterwordspacing
+
+\bibitem{StephenCombustion2011}
+S.~R. Turns, \emph{An Introduction To Combustion: Concepts And
+  Applications}.\hskip 1em plus 0.5em minus 0.4em\relax McGraw-Hill Education,
+  2011.
 
 \bibitem{FORNEY1998728}
 \BIBentryALTinterwordspacing

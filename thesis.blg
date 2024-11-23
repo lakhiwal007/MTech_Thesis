@@ -41,50 +41,53 @@ Database file #1: References/ThesisBib.bib
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
-Warning--missing school in VAThesis2011
 Warning--missing school in SKG2017
+Warning--missing publisher in doi:10.2514/6.2012-522
+Warning--empty year in doi:10.2514/6.2012-522
+Warning--missing publisher in doi:10.2514/6.2013-3677
+Warning--empty year in doi:10.2514/6.2013-3677
 Warning--empty booktitle in He2008FlamelessCO
 
 Done.
-You've used 64 entries,
+You've used 68 entries,
             4087 wiz_defined-function locations,
-            1305 strings with 21610 characters,
-and the built_in function-call counts, 50327 in all, are:
-= -- 4468
-> -- 1004
-< -- 430
-+ -- 582
-- -- 165
-* -- 2533
-:= -- 8040
-add.period$ -- 127
-call.type$ -- 64
-change.case$ -- 65
-chr.to.int$ -- 879
-cite$ -- 67
-duplicate$ -- 3533
-empty$ -- 3657
-format.name$ -- 215
-if$ -- 11691
+            1327 strings with 22740 characters,
+and the built_in function-call counts, 52764 in all, are:
+= -- 4641
+> -- 1083
+< -- 446
++ -- 622
+- -- 180
+* -- 2676
+:= -- 8438
+add.period$ -- 133
+call.type$ -- 68
+change.case$ -- 67
+chr.to.int$ -- 921
+cite$ -- 74
+duplicate$ -- 3693
+empty$ -- 3867
+format.name$ -- 235
+if$ -- 12241
 int.to.chr$ -- 0
-int.to.str$ -- 64
-missing$ -- 587
-newline$ -- 313
-num.names$ -- 62
-pop$ -- 1121
+int.to.str$ -- 68
+missing$ -- 617
+newline$ -- 335
+num.names$ -- 66
+pop$ -- 1210
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 4057
+skip$ -- 4224
 stack$ -- 0
-substring$ -- 2234
-swap$ -- 3080
-text.length$ -- 137
+substring$ -- 2306
+swap$ -- 3196
+text.length$ -- 139
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 64
-warning$ -- 3
-while$ -- 192
-width$ -- 66
-write$ -- 819
-(There were 3 warnings)
+type$ -- 68
+warning$ -- 6
+while$ -- 202
+width$ -- 70
+write$ -- 864
+(There were 6 warnings)
