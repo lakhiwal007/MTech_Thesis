@@ -36,11 +36,6 @@ V.~K. Arghode and A.~K. Gupta, ``Development of high intensity cdc combustor
   \url{https://www.sciencedirect.com/science/article/pii/S0306261910003089}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Lefebvre2009}
-A.~H. Lefebvre and D.~R. Ballal, \emph{\BIBforeignlanguage{en}{Gas turbine
-  combustion}}, 3rd~ed.\hskip 1em plus 0.5em minus 0.4em\relax Boca Raton, FL:
-  CRC Press, Jul. 2009.
-
 \bibitem{LTY2013}
 Y.~V. Lieuwen~T.C., \emph{Gas Turbine Emissions}.\hskip 1em plus 0.5em minus
   0.4em\relax Cambridge University Press, 2013.
@@ -48,14 +43,6 @@ Y.~V. Lieuwen~T.C., \emph{Gas Turbine Emissions}.\hskip 1em plus 0.5em minus
 \bibitem{LAH2010}
 A.~H. Lefebvre, \emph{Gas Turbine Combustion: Alternative Fuels and
   Emissions}.\hskip 1em plus 0.5em minus 0.4em\relax CRC Press, 2010.
-
-\bibitem{10.1115/1.4043437}
-\BIBentryALTinterwordspacing
-P.~Sharma, N.~Jain, and V.~K. Arghode, ``Investigation of a low emission liquid
-  fueled reverse-cross-flow combustor,'' \emph{Journal of Energy Resources
-  Technology}, vol. 141, no.~10, p. 102202, 04 2019. [Online]. Available:
-  \url{https://doi.org/10.1115/1.4043437}
-\BIBentrySTDinterwordspacing
 
 \bibitem{AGARWAL20171}
 \BIBentryALTinterwordspacing
@@ -113,6 +100,11 @@ M.~Carvalho, \emph{\BIBforeignlanguage{en}{Combustion technology for a clean
   Applications; Cycle Innovations, 06 1994, v003T06A021. [Online]. Available:
   \url{https://doi.org/10.1115/94-GT-283}
 \BIBentrySTDinterwordspacing
+
+\bibitem{Lefebvre2009}
+A.~H. Lefebvre and D.~R. Ballal, \emph{\BIBforeignlanguage{en}{Gas turbine
+  combustion}}, 3rd~ed.\hskip 1em plus 0.5em minus 0.4em\relax Boca Raton, FL:
+  CRC Press, Jul. 2009.
 
 \bibitem{CHOI1998}
 \BIBentryALTinterwordspacing
@@ -472,6 +464,14 @@ C.~Duwig and P.~Iudiciani, ``Large eddy simulation of turbulent combustion in a
   \url{https://www.sciencedirect.com/science/article/pii/S001623611400088X}
 \BIBentrySTDinterwordspacing
 
+\bibitem{10.1115/GTINDIA2017-4600}
+\BIBentryALTinterwordspacing
+\emph{Influence of Fuel Jet Momentum on Characteristics of a Reverse-Cross Flow
+  Combustor}, ser. Gas Turbine India Conference, vol. Volume 1: Compressors,
+  Fans and Pumps; Turbines; Heat Transfer; Combustion, Fuels and Emissions, 12
+  2017. [Online]. Available: \url{https://doi.org/10.1115/GTINDIA2017-4600}
+\BIBentrySTDinterwordspacing
+
 \bibitem{doi:10.1021/ef402357t}
 \BIBentryALTinterwordspacing
 P.~Li, F.~Wang, J.~Mi, B.~B. Dally, and Z.~Mei, ``Mild combustion under
@@ -497,6 +497,14 @@ A.~Mardani, A.~A. Beige, and K.~C. Kim, ``Moderate or intense low-oxygen
   \url{https://www.sciencedirect.com/science/article/pii/S2666202724003458}
 \BIBentrySTDinterwordspacing
 
+\bibitem{10.1115/1.4043437}
+\BIBentryALTinterwordspacing
+P.~Sharma, N.~Jain, and V.~K. Arghode, ``Investigation of a low emission liquid
+  fueled reverse-cross-flow combustor,'' \emph{Journal of Energy Resources
+  Technology}, vol. 141, no.~10, p. 102202, 04 2019. [Online]. Available:
+  \url{https://doi.org/10.1115/1.4043437}
+\BIBentrySTDinterwordspacing
+
 \bibitem{StephenCombustion2011}
 S.~R. Turns, \emph{An Introduction To Combustion: Concepts And
   Applications}.\hskip 1em plus 0.5em minus 0.4em\relax McGraw-Hill Education,
@@ -508,14 +516,6 @@ L.~Forney and N.~Nafia, ``Turbulent jet reactors: Mixing time scales,''
   \emph{Chemical Engineering Research and Design}, vol.~76, no.~6, pp.
   728--736, 1998, process Design. [Online]. Available:
   \url{https://www.sciencedirect.com/science/article/pii/S0263876298717034}
-\BIBentrySTDinterwordspacing
-
-\bibitem{10.1115/GTINDIA2017-4600}
-\BIBentryALTinterwordspacing
-\emph{Influence of Fuel Jet Momentum on Characteristics of a Reverse-Cross Flow
-  Combustor}, ser. Gas Turbine India Conference, vol. Volume 1: Compressors,
-  Fans and Pumps; Turbines; Heat Transfer; Combustion, Fuels and Emissions, 12
-  2017. [Online]. Available: \url{https://doi.org/10.1115/GTINDIA2017-4600}
 \BIBentrySTDinterwordspacing
 
 \bibitem{hussein_capp_george_1994}

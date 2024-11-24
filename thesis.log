@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.25)  23 NOV 2024 16:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.25)  24 NOV 2024 23:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1033,7 +1033,7 @@ File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 
 
 ]
-<Chapter1/Images/Conventional combustor.jpeg, id=477, 679.53876pt x 324.21124pt>
+<Chapter1/Images/Conventional combustor.jpeg, id=475, 679.53876pt x 324.21124pt>
 File: Chapter1/Images/Conventional combustor.jpeg Graphic file (type jpg)
 <use Chapter1/Images/Conventional combustor.jpeg>
 Package pdftex.def Info: Chapter1/Images/Conventional combustor.jpeg  used on input line 21.
@@ -1043,7 +1043,7 @@ Package pdftex.def Info: Chapter1/Images/Conventional combustor.jpeg  used on in
 [2]
 
 [3 <./Chapter1/Images/Conventional combustor.jpeg>]
-<Chapter1/Images/emissionWithEq.jpeg, id=498, 316.18124pt x 344.28625pt>
+<Chapter1/Images/emissionWithEq.jpeg, id=494, 316.18124pt x 344.28625pt>
 File: Chapter1/Images/emissionWithEq.jpeg Graphic file (type jpg)
 <use Chapter1/Images/emissionWithEq.jpeg>
 Package pdftex.def Info: Chapter1/Images/emissionWithEq.jpeg  used on input line 63.
@@ -1055,7 +1055,7 @@ Package pdftex.def Info: Chapter1/Images/emissionWithEq.jpeg  used on input line
 [5 <./Chapter1/Images/emissionWithEq.jpeg>]
 
 [6]
-<Chapter1/Images/NoxMechanism.jpeg, id=533, 733.74126pt x 748.7975pt>
+<Chapter1/Images/NoxMechanism.jpeg, id=529, 733.74126pt x 748.7975pt>
 File: Chapter1/Images/NoxMechanism.jpeg Graphic file (type jpg)
 <use Chapter1/Images/NoxMechanism.jpeg>
 Package pdftex.def Info: Chapter1/Images/NoxMechanism.jpeg  used on input line 121.
@@ -1076,12 +1076,12 @@ LaTeX Info: Symbol \textrightarrow not provided by
 
 
 [8 <./Chapter1/Images/NoxMechanism.jpeg>]
-<Chapter1/Images/reaction4.png, id=547, 275.0275pt x 217.81375pt>
+<Chapter1/Images/reaction4.png, id=543, 275.0275pt x 217.81375pt>
 File: Chapter1/Images/reaction4.png Graphic file (type png)
 <use Chapter1/Images/reaction4.png>
 Package pdftex.def Info: Chapter1/Images/reaction4.png  used on input line 154.
 (pdftex.def)             Requested size: 170.71393pt x 135.20265pt.
-<Chapter1/Images/NoxVsTemp.jpeg, id=548, 491.8375pt x 507.8975pt>
+<Chapter1/Images/NoxVsTemp.jpeg, id=544, 491.8375pt x 507.8975pt>
 File: Chapter1/Images/NoxVsTemp.jpeg Graphic file (type jpg)
 <use Chapter1/Images/NoxVsTemp.jpeg>
 Package pdftex.def Info: Chapter1/Images/NoxVsTemp.jpeg  used on input line 168.
@@ -1094,12 +1094,12 @@ Overfull \hbox (0.51704pt too wide) in paragraph at lines 177--178
 
 
 [9 <./Chapter1/Images/reaction4.png> <./Chapter1/Images/NoxVsTemp.jpeg>]
-<Chapter1/Images/reaction3.png, id=557, 153.57375pt x 47.17625pt>
+<Chapter1/Images/reaction3.png, id=553, 153.57375pt x 47.17625pt>
 File: Chapter1/Images/reaction3.png Graphic file (type png)
 <use Chapter1/Images/reaction3.png>
 Package pdftex.def Info: Chapter1/Images/reaction3.png  used on input line 187.
 (pdftex.def)             Requested size: 85.35696pt x 26.22127pt.
-<Chapter1/Images/reaction2.png, id=559, 219.82124pt x 113.42375pt>
+<Chapter1/Images/reaction2.png, id=555, 219.82124pt x 113.42375pt>
 File: Chapter1/Images/reaction2.png Graphic file (type png)
 <use Chapter1/Images/reaction2.png>
 Package pdftex.def Info: Chapter1/Images/reaction2.png  used on input line 197.
@@ -1107,7 +1107,7 @@ Package pdftex.def Info: Chapter1/Images/reaction2.png  used on input line 197.
 
 
 [10 <./Chapter1/Images/reaction3.png> <./Chapter1/Images/reaction2.png>]
-<Chapter1/Images/reaction1.png, id=564, 222.8325pt x 233.87375pt>
+<Chapter1/Images/reaction1.png, id=561, 222.8325pt x 233.87375pt>
 File: Chapter1/Images/reaction1.png Graphic file (type png)
 <use Chapter1/Images/reaction1.png>
 Package pdftex.def Info: Chapter1/Images/reaction1.png  used on input line 232.
@@ -1119,7 +1119,7 @@ Package pdftex.def Info: Chapter1/Images/reaction1.png  used on input line 232.
 [12]
 
 [13]
-<Chapter1/Images/FlowConfiguration.png, id=580, 300.3722pt x 490.83376pt>
+<Chapter1/Images/FlowConfiguration.png, id=577, 300.3722pt x 490.83376pt>
 File: Chapter1/Images/FlowConfiguration.png Graphic file (type png)
 <use Chapter1/Images/FlowConfiguration.png>
 Package pdftex.def Info: Chapter1/Images/FlowConfiguration.png  used on input line 301.
@@ -1133,7 +1133,7 @@ Package pdftex.def Info: Chapter1/Images/FlowConfiguration.png  used on input li
 
  (Chapter2/chapter2.tex
 {\tt {\large {\bf C H A P T E R\ \ }}} 2.
-<Chapter2/Images/HiTAC.png, id=618, 409.53pt x 593.96906pt>
+<Chapter2/Images/HiTAC.png, id=615, 409.53pt x 593.96906pt>
 File: Chapter2/Images/HiTAC.png Graphic file (type png)
 <use Chapter2/Images/HiTAC.png>
 Package pdftex.def Info: Chapter2/Images/HiTAC.png  used on input line 11.
@@ -1146,7 +1146,7 @@ Package pdftex.def Info: Chapter2/Images/HiTAC.png  used on input line 11.
 
 
 ]
-<Chapter2/Images/CDC.png, id=650, 201.00093pt x 181.42781pt>
+<Chapter2/Images/CDC.png, id=647, 201.00093pt x 181.42781pt>
 File: Chapter2/Images/CDC.png Graphic file (type png)
 <use Chapter2/Images/CDC.png>
 Package pdftex.def Info: Chapter2/Images/CDC.png  used on input line 21.
@@ -1154,7 +1154,7 @@ Package pdftex.def Info: Chapter2/Images/CDC.png  used on input line 21.
 
 
 [17 <./Chapter2/Images/HiTAC.png> <./Chapter2/Images/CDC.png>]
-<Chapter2/Images/FLOX.jpeg, id=669, 951.555pt x 489.83pt>
+<Chapter2/Images/FLOX.jpeg, id=668, 951.555pt x 489.83pt>
 File: Chapter2/Images/FLOX.jpeg Graphic file (type jpg)
 <use Chapter2/Images/FLOX.jpeg>
 Package pdftex.def Info: Chapter2/Images/FLOX.jpeg  used on input line 35.
@@ -1162,7 +1162,7 @@ Package pdftex.def Info: Chapter2/Images/FLOX.jpeg  used on input line 35.
 
 
 [18 <./Chapter2/Images/FLOX.jpeg>]
-<Chapter2/Images/MILD.jpg, id=683, 247.50876pt x 347.9193pt>
+<Chapter2/Images/MILD.jpg, id=682, 247.50876pt x 347.9193pt>
 File: Chapter2/Images/MILD.jpg Graphic file (type jpg)
 <use Chapter2/Images/MILD.jpg>
 Package pdftex.def Info: Chapter2/Images/MILD.jpg  used on input line 48.
@@ -1203,12 +1203,12 @@ Underfull \hbox (badness 2452) in paragraph at lines 86--86
 
 
 [20 <./Chapter2/Images/PAWC.jpeg> <./Chapter2/Images/FODI.jpeg>]
-<Chapter2/Images/JSR.jpeg, id=721, 347.2975pt x 312.16624pt>
+<Chapter2/Images/JSR.jpeg, id=723, 347.2975pt x 312.16624pt>
 File: Chapter2/Images/JSR.jpeg Graphic file (type jpg)
 <use Chapter2/Images/JSR.jpeg>
 Package pdftex.def Info: Chapter2/Images/JSR.jpeg  used on input line 97.
 (pdftex.def)             Requested size: 140.84192pt x 126.59811pt.
-<Chapter2/Images/TVC.jpeg, id=728, 463.7325pt x 818.05624pt>
+<Chapter2/Images/TVC.jpeg, id=730, 463.7325pt x 818.05624pt>
 File: Chapter2/Images/TVC.jpeg Graphic file (type jpg)
 <use Chapter2/Images/TVC.jpeg>
 Package pdftex.def Info: Chapter2/Images/TVC.jpeg  used on input line 108.
@@ -1218,12 +1218,12 @@ Package pdftex.def Info: Chapter2/Images/TVC.jpeg  used on input line 108.
 [21 <./Chapter2/Images/HILE.png> <./Chapter2/Images/JSR.jpeg>]
 
 [22 <./Chapter2/Images/TVC.jpeg>]
-<Chapter2/Images/DLN.jpeg, id=745, 349.305pt x 751.80875pt>
+<Chapter2/Images/DLN.jpeg, id=747, 349.305pt x 751.80875pt>
 File: Chapter2/Images/DLN.jpeg Graphic file (type jpg)
 <use Chapter2/Images/DLN.jpeg>
 Package pdftex.def Info: Chapter2/Images/DLN.jpeg  used on input line 123.
 (pdftex.def)             Requested size: 106.69783pt x 229.63974pt.
-<Chapter2/Images/PVRF.jpg, id=752, 248.78787pt x 292.91734pt>
+<Chapter2/Images/PVRF.jpg, id=754, 248.78787pt x 292.91734pt>
 File: Chapter2/Images/PVRF.jpg Graphic file (type jpg)
 <use Chapter2/Images/PVRF.jpg>
 Package pdftex.def Info: Chapter2/Images/PVRF.jpg  used on input line 137.
@@ -1231,7 +1231,7 @@ Package pdftex.def Info: Chapter2/Images/PVRF.jpg  used on input line 137.
 
 
 [23 <./Chapter2/Images/DLN.jpeg> <./Chapter2/Images/PVRF.jpg>]
-<Chapter2/Images/SPRF_.jpeg, id=765, 959.585pt x 734.745pt>
+<Chapter2/Images/SPRF_.jpeg, id=767, 959.585pt x 734.745pt>
 File: Chapter2/Images/SPRF_.jpeg Graphic file (type jpg)
 <use Chapter2/Images/SPRF_.jpeg>
 Package pdftex.def Info: Chapter2/Images/SPRF_.jpeg  used on input line 152.
@@ -1253,7 +1253,7 @@ Package pdftex.def Info: Chapter2/Images/SPRF_.jpeg  used on input line 152.
 
 
 ]
-<Chapter3/Images/RR_Formula.png, id=799, 1020.81375pt x 144.54pt>
+<Chapter3/Images/RR_Formula.png, id=802, 1020.81375pt x 144.54pt>
 File: Chapter3/Images/RR_Formula.png Graphic file (type png)
 <use Chapter3/Images/RR_Formula.png>
 Package pdftex.def Info: Chapter3/Images/RR_Formula.png  used on input line 39.
@@ -1261,17 +1261,17 @@ Package pdftex.def Info: Chapter3/Images/RR_Formula.png  used on input line 39.
 
 
 [27 <./Chapter3/Images/RR_Formula.png>]
-<Chapter3/Images/MixingTime.jpeg, id=822, 577.15625pt x 574.145pt>
+<Chapter3/Images/MixingTime.jpeg, id=824, 577.15625pt x 574.145pt>
 File: Chapter3/Images/MixingTime.jpeg Graphic file (type jpg)
 <use Chapter3/Images/MixingTime.jpeg>
 Package pdftex.def Info: Chapter3/Images/MixingTime.jpeg  used on input line 78.
 (pdftex.def)             Requested size: 124.19768pt x 123.5439pt.
-<Chapter3/Images/residenceTimeVsIntensity.jpeg, id=825, 430.60875pt x 432.61626pt>
+<Chapter3/Images/residenceTimeVsIntensity.jpeg, id=827, 430.60875pt x 432.61626pt>
 File: Chapter3/Images/residenceTimeVsIntensity.jpeg Graphic file (type jpg)
 <use Chapter3/Images/residenceTimeVsIntensity.jpeg>
 Package pdftex.def Info: Chapter3/Images/residenceTimeVsIntensity.jpeg  used on input line 85.
 (pdftex.def)             Requested size: 124.19768pt x 124.77557pt.
-<Chapter3/Images/conversionRateCOtoCo2.jpeg, id=826, 431.6125pt x 428.60126pt>
+<Chapter3/Images/conversionRateCOtoCo2.jpeg, id=828, 431.6125pt x 428.60126pt>
 File: Chapter3/Images/conversionRateCOtoCo2.jpeg Graphic file (type jpg)
 <use Chapter3/Images/conversionRateCOtoCo2.jpeg>
 Package pdftex.def Info: Chapter3/Images/conversionRateCOtoCo2.jpeg  used on input line 92.
@@ -1295,7 +1295,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 
 
 ]
-<Chapter4/Images/Mesh.png, id=839, 889.82437pt x 715.17188pt>
+<Chapter4/Images/Mesh.png, id=841, 889.82437pt x 715.17188pt>
 File: Chapter4/Images/Mesh.png Graphic file (type png)
 <use Chapter4/Images/Mesh.png>
 Package pdftex.def Info: Chapter4/Images/Mesh.png  used on input line 12.
@@ -1310,7 +1310,7 @@ Overfull \hbox (2.49345pt too wide) in paragraph at lines 45--46
 
 
 [31]
-<Chapter4/Images/PVRF.drawio.png, id=853, 469.755pt x 510.90875pt>
+<Chapter4/Images/PVRF.drawio.png, id=855, 469.755pt x 510.90875pt>
 File: Chapter4/Images/PVRF.drawio.png Graphic file (type png)
 <use Chapter4/Images/PVRF.drawio.png>
 Package pdftex.def Info: Chapter4/Images/PVRF.drawio.png  used on input line 126.
@@ -1319,7 +1319,7 @@ Package pdftex.def Info: Chapter4/Images/PVRF.drawio.png  used on input line 126
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Chapter4/Images/SPRF.drawio.png, id=854, 469.755pt x 511.9125pt>
+<Chapter4/Images/SPRF.drawio.png, id=856, 469.755pt x 511.9125pt>
 File: Chapter4/Images/SPRF.drawio.png Graphic file (type png)
 <use Chapter4/Images/SPRF.drawio.png>
 Package pdftex.def Info: Chapter4/Images/SPRF.drawio.png  used on input line 132.
@@ -1357,7 +1357,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [34 <./Chapter4/Images/SPRF.drawio.png>]
-<Chapter4/Images/PVRF_Lab.png, id=879, 812.28468pt x 951.555pt>
+<Chapter4/Images/PVRF_Lab.png, id=881, 812.28468pt x 951.555pt>
 File: Chapter4/Images/PVRF_Lab.png Graphic file (type png)
 <use Chapter4/Images/PVRF_Lab.png>
 Package pdftex.def Info: Chapter4/Images/PVRF_Lab.png  used on input line 184.
@@ -1366,7 +1366,7 @@ Package pdftex.def Info: Chapter4/Images/PVRF_Lab.png  used on input line 184.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Chapter4/Images/SPRF_Lab.png, id=880, 802.49812pt x 958.3303pt>
+<Chapter4/Images/SPRF_Lab.png, id=882, 802.49812pt x 958.3303pt>
 File: Chapter4/Images/SPRF_Lab.png Graphic file (type png)
 <use Chapter4/Images/SPRF_Lab.png>
 Package pdftex.def Info: Chapter4/Images/SPRF_Lab.png  used on input line 190.
@@ -1385,12 +1385,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
  (Chapter5/chapter5.tex
 {\tt {\large {\bf C H A P T E R\ \ }}} 5.
-<Chapter5/Images/Numerical/Contours/vel_contsNonReacting.png, id=897, 960.58875pt x 531.48563pt>
+<Chapter5/Images/Numerical/Contours/vel_contsNonReacting.png, id=899, 960.58875pt x 531.48563pt>
 File: Chapter5/Images/Numerical/Contours/vel_contsNonReacting.png Graphic file (type png)
 <use Chapter5/Images/Numerical/Contours/vel_contsNonReacting.png>
 Package pdftex.def Info: Chapter5/Images/Numerical/Contours/vel_contsNonReacting.png  used on input line 17.
 (pdftex.def)             Requested size: 298.75264pt x 165.29408pt.
-<Chapter5/Images/Numerical/Contours/vel_contsReacting.png, id=898, 992.95969pt x 517.935pt>
+<Chapter5/Images/Numerical/Contours/vel_contsReacting.png, id=900, 992.95969pt x 517.935pt>
 File: Chapter5/Images/Numerical/Contours/vel_contsReacting.png Graphic file (type png)
 <use Chapter5/Images/Numerical/Contours/vel_contsReacting.png>
 Package pdftex.def Info: Chapter5/Images/Numerical/Contours/vel_contsReacting.png  used on input line 24.
@@ -1405,17 +1405,17 @@ Package pdftex.def Info: Chapter5/Images/Numerical/Contours/vel_contsReacting.pn
 ]
 
 [39 <./Chapter5/Images/Numerical/Contours/vel_contsNonReacting.png> <./Chapter5/Images/Numerical/Contours/vel_contsReacting.png>]
-<Chapter5/Images/Numerical/Contours/temp_contsReacting.png, id=914, 979.40906pt x 524.71031pt>
+<Chapter5/Images/Numerical/Contours/temp_contsReacting.png, id=916, 979.40906pt x 524.71031pt>
 File: Chapter5/Images/Numerical/Contours/temp_contsReacting.png Graphic file (type png)
 <use Chapter5/Images/Numerical/Contours/temp_contsReacting.png>
 Package pdftex.def Info: Chapter5/Images/Numerical/Contours/temp_contsReacting.png  used on input line 41.
 (pdftex.def)             Requested size: 298.75264pt x 160.04842pt.
-<Chapter5/Images/Numerical/Recirculation ratio/RR_NR.png, id=917, 526.96875pt x 395.22656pt>
+<Chapter5/Images/Numerical/Recirculation ratio/RR_NR.png, id=919, 526.96875pt x 395.22656pt>
 File: Chapter5/Images/Numerical/Recirculation ratio/RR_NR.png Graphic file (type png)
 <use Chapter5/Images/Numerical/Recirculation ratio/RR_NR.png>
 Package pdftex.def Info: Chapter5/Images/Numerical/Recirculation ratio/RR_NR.png  used on input line 60.
 (pdftex.def)             Requested size: 202.72523pt x 152.04509pt.
-<Chapter5/Images/Numerical/Recirculation ratio/RR_R.png, id=918, 526.96875pt x 395.22656pt>
+<Chapter5/Images/Numerical/Recirculation ratio/RR_R.png, id=920, 526.96875pt x 395.22656pt>
 File: Chapter5/Images/Numerical/Recirculation ratio/RR_R.png Graphic file (type png)
 <use Chapter5/Images/Numerical/Recirculation ratio/RR_R.png>
 Package pdftex.def Info: Chapter5/Images/Numerical/Recirculation ratio/RR_R.png  used on input line 66.
@@ -1430,7 +1430,7 @@ Overfull \hbox (2.0805pt too wide) in paragraph at lines 58--70
 [40 <./Chapter5/Images/Numerical/Contours/temp_contsReacting.png>]
 
 [41 <./Chapter5/Images/Numerical/Recirculation ratio/RR_NR.png (PNG copy)> <./Chapter5/Images/Numerical/Recirculation ratio/RR_R.png (PNG copy)>]
-<Chapter5/Images/Experimental/Global images/Global.png, id=933, 1885.0425pt x 2785.40625pt>
+<Chapter5/Images/Experimental/Global images/Global.png, id=935, 1885.0425pt x 2785.40625pt>
 File: Chapter5/Images/Experimental/Global images/Global.png Graphic file (type png)
 <use Chapter5/Images/Experimental/Global images/Global.png>
 Package pdftex.def Info: Chapter5/Images/Experimental/Global images/Global.png  used on input line 86.
@@ -1439,7 +1439,7 @@ Package pdftex.def Info: Chapter5/Images/Experimental/Global images/Global.png  
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter5/Images/Experimental/Chemiluminiscene/Chems.png, id=935, 1885.0425pt x 2939.73282pt>
+<Chapter5/Images/Experimental/Chemiluminiscene/Chems.png, id=937, 1885.0425pt x 2939.73282pt>
 File: Chapter5/Images/Experimental/Chemiluminiscene/Chems.png Graphic file (type png)
 <use Chapter5/Images/Experimental/Chemiluminiscene/Chems.png>
 Package pdftex.def Info: Chapter5/Images/Experimental/Chemiluminiscene/Chems.png  used on input line 97.
@@ -1447,12 +1447,12 @@ Package pdftex.def Info: Chapter5/Images/Experimental/Chemiluminiscene/Chems.png
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter5/Images/Experimental/Chemiluminiscene/imgAvgST1.png, id=936, 526.96875pt x 395.22656pt>
+<Chapter5/Images/Experimental/Chemiluminiscene/imgAvgST1.png, id=938, 526.96875pt x 395.22656pt>
 File: Chapter5/Images/Experimental/Chemiluminiscene/imgAvgST1.png Graphic file (type png)
 <use Chapter5/Images/Experimental/Chemiluminiscene/imgAvgST1.png>
 Package pdftex.def Info: Chapter5/Images/Experimental/Chemiluminiscene/imgAvgST1.png  used on input line 105.
 (pdftex.def)             Requested size: 202.72523pt x 152.04509pt.
-<Chapter5/Images/Experimental/Chemiluminiscene/coeffVar1.png, id=937, 526.96875pt x 395.22656pt>
+<Chapter5/Images/Experimental/Chemiluminiscene/coeffVar1.png, id=939, 526.96875pt x 395.22656pt>
 File: Chapter5/Images/Experimental/Chemiluminiscene/coeffVar1.png Graphic file (type png)
 <use Chapter5/Images/Experimental/Chemiluminiscene/coeffVar1.png>
 Package pdftex.def Info: Chapter5/Images/Experimental/Chemiluminiscene/coeffVar1.png  used on input line 111.
@@ -1473,12 +1473,12 @@ Overfull \vbox (3.66269pt too high) has occurred while \output is active []
 
 
 [43 <./Chapter5/Images/Experimental/Global images/Global.png>]
-<Chapter5/Images/Experimental/Emissions/CO Emission.png, id=953, 421.575pt x 316.18124pt>
+<Chapter5/Images/Experimental/Emissions/CO Emission.png, id=955, 421.575pt x 316.18124pt>
 File: Chapter5/Images/Experimental/Emissions/CO Emission.png Graphic file (type png)
 <use Chapter5/Images/Experimental/Emissions/CO Emission.png>
 Package pdftex.def Info: Chapter5/Images/Experimental/Emissions/CO Emission.png  used on input line 130.
 (pdftex.def)             Requested size: 202.72523pt x 152.04509pt.
-<Chapter5/Images/Experimental/Emissions/NoxEmmision.png, id=954, 421.575pt x 316.18124pt>
+<Chapter5/Images/Experimental/Emissions/NoxEmmision.png, id=956, 421.575pt x 316.18124pt>
 File: Chapter5/Images/Experimental/Emissions/NoxEmmision.png Graphic file (type png)
 <use Chapter5/Images/Experimental/Emissions/NoxEmmision.png>
 Package pdftex.def Info: Chapter5/Images/Experimental/Emissions/NoxEmmision.png  used on input line 136.
@@ -1493,12 +1493,12 @@ Overfull \hbox (2.0805pt too wide) in paragraph at lines 128--140
 [44 <./Chapter5/Images/Experimental/Chemiluminiscene/Chems.png>]
 
 [45 <./Chapter5/Images/Experimental/Chemiluminiscene/imgAvgST1.png (PNG copy)> <./Chapter5/Images/Experimental/Chemiluminiscene/coeffVar1.png (PNG copy)> <./Chapter5/Images/Experimental/Emissions/CO Emission.png (PNG copy)> <./Chapter5/Images/Experimental/Emissions/NoxEmmision.png (PNG copy)>]
-<Chapter5/Images/Experimental/Emissions/NOxVsCHs.png, id=971, 421.575pt x 316.18124pt>
+<Chapter5/Images/Experimental/Emissions/NOxVsCHs.png, id=973, 421.575pt x 316.18124pt>
 File: Chapter5/Images/Experimental/Emissions/NOxVsCHs.png Graphic file (type png)
 <use Chapter5/Images/Experimental/Emissions/NOxVsCHs.png>
 Package pdftex.def Info: Chapter5/Images/Experimental/Emissions/NOxVsCHs.png  used on input line 154.
 (pdftex.def)             Requested size: 202.72523pt x 152.04509pt.
-<Chapter5/Images/Experimental/Emissions/LoL.png, id=972, 432.8973pt x 302.8113pt>
+<Chapter5/Images/Experimental/Emissions/LoL.png, id=974, 432.8973pt x 302.8113pt>
 File: Chapter5/Images/Experimental/Emissions/LoL.png Graphic file (type png)
 <use Chapter5/Images/Experimental/Emissions/LoL.png>
 Package pdftex.def Info: Chapter5/Images/Experimental/Emissions/LoL.png  used on input line 160.
@@ -1532,10 +1532,10 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
 
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `en'. Using the pattern for
+** loaded for the language `English'. Using the pattern for
 ** the default language instead.
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `English'. Using the pattern for
+** loaded for the language `en'. Using the pattern for
 ** the default language instead.
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
@@ -1572,9 +1572,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  90i,13n,93p,2771b,1055s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\lakhi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><D:/Program Files/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MikTex/fonts/type1/urw/symbol/usyr.pfb><D:/Program Files/MikTex/fonts/type1/urw/symbol/usyr.pfb><D:/Program Files/MikTex/fonts/type1/urw/times/utmb8a.pfb><D:/Program Files/MikTex/fonts/type1/urw/times/utmbi8a.pfb><D:/Program Files/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/Program Files/MikTex/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (63 pages, 19635426 bytes).
+Output written on thesis.pdf (63 pages, 19635622 bytes).
 PDF statistics:
- 1192 PDF objects out of 1200 (max. 8388607)
+ 1194 PDF objects out of 1200 (max. 8388607)
  269 named destinations out of 1000 (max. 500000)
  761 words of extra memory for PDF output out of 10000 (max. 10000000)
 
