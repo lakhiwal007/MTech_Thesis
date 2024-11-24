@@ -32,10 +32,12 @@ where
 This correlation suggests that the turbulent mixing time depends inversely on air injection velocity (U), i.e., ($\tau_{mix} \propto \frac{1}{U}$) and directly on the diameter (D), i.e., ($\tau_{mix} \propto D$) for the same mass flow rate. Therefore, increasing injected velocity of air and reducing the diameter of the air injection can lead to a decrease in the mixing time, resulting in a faster mixing of fuel with the oxidizer (see Fig. \ref{fig:mixingTime}). An increase in diameter results in a longer mixing time, which can potentially lead to insufficient mixing. When mixing is inadequate, it can result in higher pollutant emissions \cite{VAThesis2011}.
 
 \section{Gas Recirculation}
-In colorless combustion, the entrainment of product gases into fresh reactants is used to increase the temperature of the reactants and decrease the oxygen concentration in the oxidizer. The recirculation ratio determines the extent of gas recirculation by measuring the quantity of product gases entrained into the fresh oxidizer mixture. It is calculated by dividing the mass flux of the recirculated gases by the mass flux of the fresh reactants. A higher equivalence ratio ensures better mixing of fuel and air.
-\begin{equation}
-    Recircualation\ ratio\ = \ \frac{Entrained\ product\ gases \ mass\ flow\ rate}{Injected\ air\ mass\ flow\ rate }
-\end{equation}
+In colorless combustion, the entrainment of product gases into fresh reactants is used to increase the temperature of the reactants and decrease the oxygen concentration in the oxidizer. The recirculation ratio determines the extent of gas recirculation by measuring the quantity of product gases entrained into the fresh oxidizer mixture. It is calculated by dividing the mass flux of the recirculated gases by the mass flux of the fresh reactants. A higher equivalence ratio ensures better mixing of fuel and air \cite{10.1115/GTINDIA2017-4600}.
+
+\begin{figure}[h!]
+	\centering
+        \includegraphics[width=1\textwidth]{Chapter3/Images/RR_Formula.png}
+\end{figure}
 The correlation given in equation \ref{nonReactingRR}  below is used to describe the behavior of a non-reacting air jet with variable density when injected into an idle medium \cite{hussein_capp_george_1994,ricou_spalding_1961}.
 \begin{equation}\label{nonReactingRR}
     Recircualation\ ratio\ = \ \frac{\dot{m_{rec}}}{\dot{m_{inj}}} \ = \ C_e \frac{x}{D^*} \ - \ 1
@@ -56,18 +58,18 @@ where
 
 From equation \ref{nonReactingRR}, following statement can be made:
 \begin{enumerate}
-    \item recirculation ratio (RR) directly proportional to distance from the air injection port ( RR $\propto$ x), i.e. recirculation ratio increases as the distance increases from air injection port upto bottom of the combustor.
+    \item recirculation ratio (RR) directly proportional to distance from the air injection port ( RR $\propto$ x), i.e. recirculation ratio increases as the distance increases from air injection port upto bottom of the combustor \cite{GUPTA2020116766}.
     \item recirculation ratio is directly dependent upon air injection temperature (RR $\propto$ T$_{air}^{1/2}$).
     \item recirculation ratio depends upon injection diameter such that $RR\ \propto \frac{1}{D}$.
 \end{enumerate}
 
 \section{Thermal Intensity \& Residence Time}
-In Chapter \ref{CH1:Intro}, we discussed thermal intensity which is representative of the residence time of gases in the combustor by definition. The residence time depends on thermal intensity inversely in the combustor \cite{VAThesis2011}. 
+In Chapter \ref{CH1:Intro}, we introduced thermal intensity, which, by definition, represents the residence time of gases within the combustor. Notably, the residence time in the combustor is inversely proportional to thermal intensity \cite{VAThesis2011}.
 \begin{equation}\label{residenceTime}
     Residence\ time\ = \ t_{res} = \ \frac{\rho V}{\dot{m}}
 \end{equation}
 
-where, $\dot{m}$ represents the total mass flow rate through the combustor, $\rho$ is the average gas density in the combustor, and V is the combustor volume.
+here, $\dot{m}$ denotes the total mass flow rate through the combustor, $\rho$ represents the average gas density within the combustor, and $V$ is the combustor volume.
 
 A higher thermal intensity leads to a shorter residence time (see Fig. \ref{fig:residenceTimeVsIntensity}), which presents various design challenges such as increased velocity and reduced flame stability. Higher CO emissions measured at shorter residence time due to insufficient time for conversion from CO to CO$_2$, as depicted in figure \ref{fig:conversionRateCOtoCo2}. The graph illustrates that the conversion rate of CO is high at lower residence times.
 
@@ -88,7 +90,7 @@ A higher thermal intensity leads to a shorter residence time (see Fig. \ref{fig:
     \begin{subfigure}[t]{0.3\textwidth}
         \centering
         \includegraphics[width=0.97\textwidth]{Chapter3/Images/conversionRateCOtoCo2.jpeg}
-        \subcaption{conversion rate CO to CO$_2$.}
+        \subcaption{Conversion rate CO to CO$_2$.}
         \label{fig:conversionRateCOtoCo2}
     \end{subfigure}
 \caption{Turbulent mixing time and residence time plots.}

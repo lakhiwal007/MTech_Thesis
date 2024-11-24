@@ -20,7 +20,7 @@
 \contentsline {subsubsection}{Thermal NOx Formation (Zeldovich Mechanism)}{7}{figure.1.3}%
 \contentsline {subsubsection}{Nitrous Oxide Mechanism}{10}{figure.1.4}%
 \contentsline {subsubsection}{Prompt NOx Formation}{10}{figure.1.4}%
-\contentsline {subsubsection}{Fuel NOx Formation}{12}{figure.1.4}%
+\contentsline {subsubsection}{Fuel NOx Formation}{11}{figure.1.4}%
 \contentsline {subsection}{\numberline {1.5.2}CO (UHC) formation}{13}{subsection.1.5.2}%
 \contentsline {subsection}{\numberline {1.5.3}Soot Formation}{13}{subsection.1.5.3}%
 \contentsline {section}{\numberline {1.6}Nomenclature for different flow configurations}{14}{section.1.6}%
@@ -50,10 +50,10 @@
 \contentsline {subsection}{\numberline {4.2.1}Combustor Mesh}{29}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}Initial and Boundary Conditions}{30}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}Turbulence and Combustion Model}{30}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Experimental Setup}{32}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Experimental Setup}{31}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}Global Imaging}{33}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4.3.2}CH$^*$ Chemiluminescene}{34}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Gas Analyzer}{35}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.3}Gas Analyzer}{34}{subsection.4.3.3}%
 \contentsline {subsection}{\numberline {4.3.4}Combustor Design and Ignition Process}{35}{subsection.4.3.4}%
 \contentsline {chapter}{\numberline {5}Results and Discussion}{38}{chapter.5}%
 \contentsline {section}{\numberline {5.1}\textbf {Numerical results}}{38}{section.5.1}%

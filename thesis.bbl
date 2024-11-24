@@ -100,6 +100,11 @@ J.~Mattingly, \emph{Elements of Gas Turbine Propulsion}, ser. AIAA education
   \url{https://books.google.co.in/books?id=vA98AAAACAAJ}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Carvalho2024}
+M.~Carvalho, \emph{\BIBforeignlanguage{en}{Combustion technology for a clean
+  environment}}.\hskip 1em plus 0.5em minus 0.4em\relax Boca Raton: CRC Press,
+  Oct. 2024.
+
 \bibitem{94-GT-283}
 \BIBentryALTinterwordspacing
 \emph{{Comparison of Liquid Fuel/Air Mixing and NOx Emissions for a Tangential
@@ -483,6 +488,15 @@ M.~A. Nemitallah, S.~S. Rashwan, I.~B. Mansir, A.~A. Abdelhafez, and M.~A.
   [Online]. Available: \url{https://doi.org/10.1021/acs.energyfuels.7b03607}
 \BIBentrySTDinterwordspacing
 
+\bibitem{MARDANI2024100905}
+\BIBentryALTinterwordspacing
+A.~Mardani, A.~A. Beige, and K.~C. Kim, ``Moderate or intense low-oxygen
+  dilution (mild) combustion regime: An overview on fuels,''
+  \emph{International Journal of Thermofluids}, vol.~24, p. 100905, 2024.
+  [Online]. Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S2666202724003458}
+\BIBentrySTDinterwordspacing
+
 \bibitem{StephenCombustion2011}
 S.~R. Turns, \emph{An Introduction To Combustion: Concepts And
   Applications}.\hskip 1em plus 0.5em minus 0.4em\relax McGraw-Hill Education,
@@ -494,6 +508,14 @@ L.~Forney and N.~Nafia, ``Turbulent jet reactors: Mixing time scales,''
   \emph{Chemical Engineering Research and Design}, vol.~76, no.~6, pp.
   728--736, 1998, process Design. [Online]. Available:
   \url{https://www.sciencedirect.com/science/article/pii/S0263876298717034}
+\BIBentrySTDinterwordspacing
+
+\bibitem{10.1115/GTINDIA2017-4600}
+\BIBentryALTinterwordspacing
+\emph{Influence of Fuel Jet Momentum on Characteristics of a Reverse-Cross Flow
+  Combustor}, ser. Gas Turbine India Conference, vol. Volume 1: Compressors,
+  Fans and Pumps; Turbines; Heat Transfer; Combustion, Fuels and Emissions, 12
+  2017. [Online]. Available: \url{https://doi.org/10.1115/GTINDIA2017-4600}
 \BIBentrySTDinterwordspacing
 
 \bibitem{hussein_capp_george_1994}

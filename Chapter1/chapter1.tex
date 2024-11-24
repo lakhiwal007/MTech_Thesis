@@ -8,9 +8,9 @@ Emerging technology of Colourless Distributed Combustion (CDC) \cite{VAThesis201
 In the present study, reverse flow configuration of CDC combustor have been discussed. In this configuration, inlet and outlet are on same side of the combustor. Reverse flow nature of the geometry allows the product gases to recirculate within the combustion chamber and mix with the incoming oxidizer stream and hence diluting it. This drives the combustion towards colorless regime.
 
 \section{Motivation}
-Concerns about the effects of pollutants on the environment and health have led to a heightened focus on pollutant emissions. Over the past decades, there have been significant changes in both regulations and technologies aimed at controlling emissions from gas turbines. Additionally, stationary gas turbines have gained prominence in the gas and oil industry, expanding their applications in combined cycle plants and utility power generation. As a result, there is more demand on combustion engineers to reduce pollutant emissions from different kinds of gas turbines \cite{Lefebvre2009}.
+Concerns about the effects of pollutants on the environment and health have led to a heightened focus on pollutant emissions. Over the past decades, there have been significant changes in both regulations and technologies aimed at controlling emissions from gas turbines. Additionally, stationary gas turbines have gained prominence in the gas and oil industry, expanding their applications in combined cycle plants and utility power generation. As a result, there is more demand on combustion engineers to reduce pollutant emissions\cite{Lefebvre2009}.
 
-NOx is a concerning pollutant among other pollutants due to its harmful impact on health and contribution to ozone layer depletion. With the growing demand for land-based and aviation gas turbines, there is an urgent need to minimize gas turbine engines emissions. Several factors, particularly NOx, have a crucial role in the development of pollutants. Formation of nitrogen oxides (NOx) is primarily influenced by the flame temperature and the duration of combustion products in the chamber. Zeldovich mechanism \cite{LTY2013}, additionally referred to as the thermal NOx mechanism, is one of the various mechanisms for NOx generation and is of utmost significance \cite{LAH2010}. Similar to the NOx produced in just a few milliseconds as the temperature near 2100 K \cite{10.1115/1.4043437}, thermal NOx is produced at roughly 1800 K over a period of time.
+NOx is a concerning pollutant among other pollutants due to its harmful impact on health and contribution to ozone layer depletion. With the growing demand, there is an urgent need to minimize gas turbine engines emissions. Several factors, particularly NOx, have a crucial role in the development of pollutants. Formation of nitrogen oxides (NOx) is primarily influenced by the flame temperature and the duration of combustion products in the chamber. Zeldovich mechanism\cite{LTY2013}, additionally referred to as the thermal NOx mechanism, is one of the various mechanisms for NOx generation and is of utmost significance\cite{LAH2010}. Similar to the NOx produced in just a few milliseconds as the temperature near 2100 K\cite{10.1115/1.4043437}, thermal NOx is produced at roughly 1800 K over a period of time.
 
 Design and development of a novel combustor which can change the dynamics of combustion process to suppress NOx emission will be explored in next chapter.
 
@@ -23,7 +23,7 @@ There are wide range of basic requirements that a gas turbine needs to satisfy. 
 	\label{fig:gasTurbineEngine}
 \end{figure}
 
-In order to reduce the pressure drop in the combustor, a diffuser is typically used to slow the air as it enters the combustion chamber. Swirlers help to stabilise flames by creating a recirculating flow field in the primary zone. To keep gas temperature within safe range for the turbine blades as it moves downstream from the primary zone, air is injected through liner holes. Temperature profile of the exhaust gases entering the turbine vanes can be modified thanks to this air injection \cite{LAH2010}.
+In the combustor, diffuser is used to  reduce the pressure drop, a diffuser is typically used to slow the air as it enters the combustion chamber. Swirlers help to stabilise flames by creating a recirculating flow field in the primary zone. To keep gas temperature within safe range for the turbine blades as it moves downstream from the primary zone, air is injected through liner holes. Temperature profile of the exhaust gases entering the turbine vanes can be modified thanks to this air injection \cite{LAH2010}.
 
 The fundamental requirements for most combustors \cite{LAH2010} are outlined as follows:
 \begin{itemize}
@@ -50,8 +50,8 @@ The fundamental requirements for most combustors \cite{LAH2010} are outlined as 
 
 \section{Gas Turbine Combustor Design Parameter}
 \subsection{High Thermal Intensity}
-Thermal intensity refers to the heat energy released rate per unit volume of the combustor, scaled by the operating pressure \cite{VAThesis2011}. In land based gas turbine combustor, typically exhibits a thermal intensity of approximately 5-15 MW/m3-atm. 
-\begin{equation}
+Equation \ref{thermalIntensity} refers to thermal intensity. In land based gas turbine combustor, typically exhibits a thermal intensity of approximately 5-15 MW/m3-atm. 
+\begin{equation}{\label{thermalIntensity}}
     Thermal\ intensity\ = \ \frac{Heat\ release\ rate}{Volume \times Pressure}
 \end{equation}
 Consequently, high thermal intensity results in high thermal load within a small combustor volume. This is crucial for aerospace applications as it enables space and weight savings in the engine design.
@@ -80,7 +80,7 @@ Where
 \end{equation*} are mole fractions, $MW_i$ and $MW_f$ are the molecular weights of the species i and the fuel \cite{doi:10.2514/6.2012-522}, respectively and $x$ is the number of moles of carbon in a mole of fuel, \cite{doi:10.2514/6.2013-3677}.
 
 \subsection{Pressure Drop}
-The major cause of pressure losses within a combustion chamber is primarily attributed to the increase in temperature resulting from the combustion process. Additionally, pressure losses can occur due to cold losses caused by friction and inherent pressure losses. In the context of a gas turbine combustor, it is essential to minimize pressure drop since it directly affects the loss of thrust generated by the engine. 
+The major cause of pressure losses within a combustion chamber is primarily attributed to the increase in temperature resulting from the combustion process. Additionally, pressure losses can occur due to cold losses caused by friction and inherent pressure losses. It is essential to minimize pressure drop since it directly affects the loss of thrust generated by the engine. 
 
 \begin{equation}
     Pressure\ drop\ = \ \frac{P_{inlet}- P_{exit}}{P_{inlet}}
@@ -110,10 +110,10 @@ Combustion instabilities arise from significant pressure oscillations caused by 
 The operational limits of a combustion chamber are determined by the minimum and maximum equivalence ratio required to sustain a flame. The lean operational limit refers to the minimum equivalence ratio at which the flame remains stable without blowing off. Conversely, the rich operational limit represents the maximum equivalence ratio at which the flame can be sustained before extinguishing. The actual equivalence ratio within the combustion chamber varies due to mixing effects. A larger difference between lean and rich operational limits indicates greater combustion stability, highlighting the importance of achieving a wider range for enhanced stability in the combustion process.
 
 \section{Pollutant Formation}
-One of the most crucial factors to consider is the emission of pollutants from the combustor. It is essential to minimize these emissions due to the stricter aircraft emission standards worldwide. Primary pollutants released from the gas turbine combustor include NOx, CO, UHC, and soot. NOx emissions tend to be higher near stoichiometric stoichiometric conditions, and decrease in fuel-rich conditions. Conversely, higher CO and UHC emissions are measured at both low and high equivalence ratios \cite{VAThesis2011}. Consequently, there is only a limited range where both CO and NOx emissions are low and within acceptable limits, as illustrated in Figure \ref{PollEq}. Soot comprises unburnt carbon particles and is primarily generated under fuel-rich conditions.
+One of the most crucial factors to consider is the emission of pollutants from the combustor. It is essential to minimize these emissions due to the stricter aircraft emission standards worldwide. Primary pollutants released from the gas turbine combustor include NOx, CO, UHC, and soot. NOx emissions tend to be higher near stoichiometric stoichiometric conditions, and decrease in fuel-rich conditions. Conversely, at both low and high equivalence ratios, higher CO and UHC emissions are measured. Consequently, there is only a limited range where both CO and NOx emissions are low and within acceptable limits, as illustrated in Figure \ref{PollEq}. Soot comprises unburnt carbon particles and is primarily generated under fuel-rich conditions.
 
 \subsection{Oxides of Nitrogen (NOx)}
-Majority of nitric oxide (NO) generated during combustion undergoes oxidation to form nitrogen dioxide (NO$_2$). Due to this, it is common practice to combine NO and NO$_2$ and refer to them collectively as NOx, instead of solely focusing on NO. NOx can be formed in four different mechanism: thermal NOx, prompt NOx, nitrous oxide mechanism, and fuel NOx.
+Majority of nitric oxide (NO) generated during combustion undergoes oxidation to form nitrogen dioxide (NO$_2$). Due to this, it is common practice to combine NO and NO$_2$ and refer to them collectively as NOx, instead of solely focusing on NO. NOx can be formed in four different mechanism: thermal NOx, prompt NOx, nitrous oxide mechanism, and fuel NOx\cite{Carvalho2024}.
 
 
 \begin{figure}[h]
@@ -266,7 +266,7 @@ The key pathways of fuel NOx formation include:
     \item \textbf{Nitrous Oxide Formation:} Some fuel nitrogen compounds, particularly nitrogen-based heterocyclic compounds found in coal and biomass, can also contribute to the formation of nitrous oxide (N$_2$O) during combustion. Nitrous oxide is a potent greenhouse gas and a minor contributor to fuel NOx emissions.
 \end{itemize}
 
-The extent of fuel NOx formation is influenced by several fuel-related factors:
+The fuel NOx formation is influenced by several fuel-related factors:
 \begin{itemize}
     \item Fuel Nitrogen Content: The nitrogen content of the fuel plays a crucial role in determining the potential for fuel NOx formation. Fuels with higher nitrogen content have a higher propensity to generate fuel NOx emissions.
     \item Fuel Composition: Different fuel types contain varying organic and inorganic nitrogen compounds, leading to differences in the fuel NOx formation potential. For example, coal generally contains higher nitrogen content compared to natural gas, resulting in higher fuel NOx emissions when combusted.
